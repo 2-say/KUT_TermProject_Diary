@@ -1,0 +1,261 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>달력 보기 페이지</title>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main1.css" />
+		<link rel="stylesheet" href="assets/css/menu.css" />
+		<link rel="stylesheet" href="assets/css/menutree.css" />
+		<link rel="stylesheet" href="assets/css/checkList.css" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	</head>
+
+	<body class="body1">
+		<!-- Wrapper -->
+			<div id="wrapper">
+				<!-- Header -->
+				<header id="header">
+					<h1><a href="index.php">Diary Mate📚</a></h1>
+					<nav class="links">
+						<nav class="navigation">
+							<ul class="menu1">
+							  <li class="menu__item">
+								<a href="#" class="menu__link">
+								  <span class="menu__title">
+									<span class="menu__first-word" data-hover="최신">
+									  최신
+									</span>
+									<span class="menu__second-word" data-hover="게시글">
+									  게시글
+									</span>
+								  </span>
+								</a>
+							  </li>
+						  
+							  <li class="menu__item">
+								<a href="#" class="menu__link">
+								  <span class="menu__title">
+									<span class="menu__first-word" data-hover="인기">
+									  인기
+									</span>
+									<span class="menu__second-word" data-hover="게시글">
+									  게시글
+									</span>
+								  </span>
+								</a>
+							  </li>
+						  
+							  <li class="menu__item">
+								<a href="#" class="menu__link">
+								  <span class="menu__title">
+									<span class="menu__first-word" data-hover="이웃">
+									  이웃
+									</span>
+									<span class="menu__second-word" data-hover="게시글">
+									  게시글
+									</span>
+								  </span>
+								</a>
+							  </li>
+						  
+							  <li class="menu__item">
+								<a href="#" class="menu__link">
+								  <span class="menu__title">
+									<span class="menu__first-word" data-hover="New">
+									  New
+									</span>
+									<span class="menu__second-word" data-hover="Arrivals">
+									  Arrivals
+									</span>
+								  </span>
+								</a>
+							  </li>
+							</ul>
+						  </nav>
+					</nav>
+					
+					<!-- 오디오 삽입 -->
+					<audio autoplay controls>
+						<source src="Videos/인생은회전목마.mp3" type="audio/mp3">
+					</audio>
+					
+						<nav class="main">
+							<ul>
+								<li class="menu">
+									<a class="fa-bars" href="#menu">Menu</a>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+				<nav id="menu">
+					<ul class="links">
+						<li><a href="index.php">Home</a></li>
+						<li><a href="ViewTree.php">숲 보기</a></li>
+						<li><a href="tree.php">나무 작성</a></li>
+						<li><a href="Viewcalendar.php">감정 캘린더</a></li>
+					</ul>
+
+
+					
+					<ul class="actions stacked">
+						<li><a href="#" class="button primary fit">Get Started</a></li>
+						<li><a href="#" class="button fit">Log In</a></li>
+					</ul>
+				</nav>
+
+				<!-- Main -->
+					<div id="main1">
+						<!-- Post -->
+							<article class="post1">
+								<div class="container">
+									<h1>일기 퀘스트</h1>
+									<div class="items">
+										<input id="item1" type="checkbox" checked>
+										<label for="item1">하루 일기 쓰기  (+10 Point)</label>
+									
+										<input id="item2" type="checkbox">
+										<label for="item2">한달 일기 작성 완료 (+200 Point)</label>
+									
+										<input id="item3" type="checkbox">
+										<label for="item3">다른 일기 좋아요 누르기 (+50 Point)</label>
+									
+										<input id="item4" type="checkbox">
+										<label for="item4">다른 일기 댓글 달기(+50 Point)</label>
+									
+										<input id="item5" type="checkbox">
+										<label for="item5">나의 일기 감정 채우기 (+100 Point)</label>
+									
+										<input id="item6" type="checkbox">
+										<label for="item6">나의 일기 조회수 1000 달성 (+100 Point)</label>
+									
+										<h2 class="done" aria-hidden="true">Done</h2>
+										<h2 class="undone" aria-hidden="true">Not Done</h2>
+									</div>
+								</div>
+							</article>
+					</div>
+
+				
+					<div class="container1">
+						<header>
+							<h1>일기랭킹👑</h1>
+						</header>
+					
+						<table>
+								<thead>
+									<tr>
+										<th>Rank</th>
+										<th>Team</th>
+										<th>Points</th>
+										<th>+/-</th>
+									</tr>
+								</thead>
+						<tbody>
+								<tr>
+									<td class="rank">1</td>
+									<td class="team">Spain</td>
+									<td class="points">1460</td>
+									<td class="up-down">0</td>
+								</tr>
+								<tr>
+									<td class="rank">2</td>
+									<td class="team">Germany</td>
+									<td class="points">1340</td>
+									<td class="up-down">0</td>
+								</tr>
+								<tr>
+									<td class="rank">3</td>
+									<td class="team">Portugal</td>
+									<td class="points">1245</td>
+									<td class="up-down">0</td>
+								</tr>
+								<tr>
+									<td class="rank">4</td>
+									<td class="team">Brazil</td>
+									<td class="points">1210</td>
+									<td class="up-down">+2</td>
+								</tr>
+								<tr>
+									<td class="rank">5</td>
+									<td class="team">Colombia</td>
+									<td class="points">1186</td>
+									<td class="up-down">-1</td>
+								</tr>
+								<tr>
+									<td class="rank">6</td>
+									<td class="team">Uruguay</td>
+									<td class="points">1181</td>
+									<td class="up-down">-1</td>
+								</tr>
+								<tr>
+									<td class="rank">7</td>
+									<td class="team">Argentina</td>
+									<td class="points">1178</td>
+									<td class="up-down">-1</td>
+								</tr>
+								<tr>
+									<td class="rank">8</td>
+									<td class="team">Switzerland</td>
+									<td class="points">1161</td>
+									<td class="up-down">0</td>
+								</tr>
+									<tr>
+									<td class="rank">9</td>
+									<td class="team">Italy</td>
+									<td class="points">1115</td>
+									<td class="up-down">0</td>
+								</tr>
+								<tr>
+									<td class="rank">10</td>
+									<td class="team">Greece</td>
+									<td class="points">1082</td>
+									<td class="up-down">0</td>
+								</tr>
+							</tbody>
+						</table>
+						
+					</div>
+
+
+
+
+
+
+					<div class="container2">
+						<header>
+						<h1>나의 프로필</h1>
+						</header>
+						<div class="wrapper">
+							<img src="images/apple.png" width="440px" height="500px"/>
+						</div>
+					</div>
+							
+
+							
+
+
+
+
+
+
+									
+
+							
+					
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main1.js"></script>
+			<script src="assets/js/calendar.js"></script>
+
+	</body>
+</html>

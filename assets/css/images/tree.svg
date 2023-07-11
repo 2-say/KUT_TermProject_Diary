@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="420mm" height="297mm" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.1" viewBox="0 0 42000 29700" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.fil1 {fill:#FEFEFE} .fil158 {fill:#EBECEC} .fil155 {fill:#E1E1E1} .fil151 {fill:#DBDBDB} .fil162 {fill:#DADBDB} .fil161 {fill:#D9DADA} .fil157 {fill:#D2D3D3} .fil150 {fill:#C2C3C3} .fil149 {fill:#BCBDBD} .fil154 {fill:#B2B3B3} .fil156 {fill:#AFB0B0} .fil164 {fill:#ABACAC} .fil159 {fill:#A5A6A6} .fil153 {fill:#919191} .fil160 {fill:#898989} .fil152 {fill:#727271} .fil163 {fill:#5B5B5B} .fil148 {fill:#434242} .fil147 {fill:#2B2A29} .fil13 {fill:#9B8B84} .fil17 {fill:#A4948D} .fil14 {fill:#8E7E76} .fil15 {fill:#94847D} .fil12 {fill:#897970} .fil9 {fill:#7C6D63} .fil16 {fill:#99897F} .fil11 {fill:#7F6E63} .fil8 {fill:#78695E} .fil10 {fill:#756559} .fil137 {fill:#4C5B41} .fil142 {fill:#506044} .fil144 {fill:#546647} .fil141 {fill:#566B47} .fil140 {fill:#586D48} .fil139 {fill:#5C714D} .fil136 {fill:#617354} .fil138 {fill:#637B52} .fil116 {fill:#667C52} .fil122 {fill:#667D52} .fil119 {fill:#698055} .fil23 {fill:#6A8650} .fil120 {fill:#6D8557} .fil35 {fill:#6E5E54} .fil117 {fill:#6E8658} .fil33 {fill:#6F6157} .fil88 {fill:#6F8659} .fil22 {fill:#6F9451} .fil130 {fill:#70865B} .fil118 {fill:#718C5B} .fil30 {fill:#72645B} .fil67 {fill:#735446} .fil98 {fill:#746356} .fil38 {fill:#74655C} .fil29 {fill:#766961} .fil76 {fill:#77574B} .fil46 {fill:#77685E} .fil121 {fill:#778865} .fil21 {fill:#77A353} .fil49 {fill:#78584A} .fil100 {fill:#78685D} .fil32 {fill:#786A5F} .fil143 {fill:#788A6A} .fil123 {fill:#78955F} .fil115 {fill:#799760} .fil25 {fill:#7A6E67} .fil39 {fill:#7B6D63} .fil62 {fill:#7C5C4F} .fil86 {fill:#7C9662} .fil107 {fill:#7C9B62} .fil94 {fill:#7D9665} .fil89 {fill:#7D9D62} .fil20 {fill:#7DA958} .fil56 {fill:#7E5D4E} .fil105 {fill:#7E6D5F} .fil74 {fill:#7F5F51} .fil95 {fill:#7F9B67} .fil68 {fill:#805F4D} .fil43 {fill:#807269} .fil42 {fill:#807670} .fil93 {fill:#819B68} .fil87 {fill:#819D65} .fil72 {fill:#826154} .fil126 {fill:#82A366} .fil47 {fill:#83756A} .fil51 {fill:#846252} .fil37 {fill:#84776F} .fil127 {fill:#85AA66} .fil103 {fill:#86796F} .fil44 {fill:#867E79} .fil92 {fill:#869D6D} .fil108 {fill:#86A869} .fil4 {fill:#86B05A} .fil99 {fill:#877668} .fil84 {fill:#87A46C} .fil96 {fill:#87A56C} .fil90 {fill:#88A16A} .fil59 {fill:#896752} .fil61 {fill:#896759} .fil104 {fill:#89796D} .fil45 {fill:#89827E} .fil85 {fill:#89A86B} .fil34 {fill:#8A8383} .fil132 {fill:#8AAE6C} .fil70 {fill:#8B6857} .fil112 {fill:#8CA973} .fil19 {fill:#8CB467} .fil106 {fill:#8D7F76} .fil48 {fill:#8D8783} .fil3 {fill:#8EB665} .fil101 {fill:#8F7E70} .fil26 {fill:#8F817A} .fil31 {fill:#918C89} .fil114 {fill:#92AB7B} .fil78 {fill:#936F5C} .fil79 {fill:#947160} .fil2 {fill:#95BB6F} .fil81 {fill:#96725F} .fil109 {fill:#96BF73} .fil134 {fill:#97B77B} .fil83 {fill:#97BB75} .fil131 {fill:#97BF75} .fil69 {fill:#987465} .fil73 {fill:#997563} .fil91 {fill:#99A67C} .fil18 {fill:#9ABE7A} .fil124 {fill:#9AC875} .fil65 {fill:#9B7866} .fil5 {fill:#9CC078} .fil129 {fill:#9DB984} .fil71 {fill:#A1806E} .fil6 {fill:#A2C480} .fil63 {fill:#A4806F} .fil75 {fill:#A48271} .fil66 {fill:#A48371} .fil53 {fill:#A68272} .fil55 {fill:#A68372} .fil110 {fill:#A6C889} .fil135 {fill:#A6D480} .fil41 {fill:#A7A09E} .fil7 {fill:#A7C887} .fil57 {fill:#A88675} .fil58 {fill:#AA8978} .fil113 {fill:#ABD687} .fil50 {fill:#AC8B7A} .fil102 {fill:#ACA4A0} .fil54 {fill:#AD8A7A} .fil80 {fill:#AE8C7C} .fil60 {fill:#AE8D7C} .fil36 {fill:#B1A7A2} .fil82 {fill:#B29080} .fil52 {fill:#B59484} .fil125 {fill:#B8DB99} .fil27 {fill:#B9ADA6} .fil128 {fill:#BBDC9E} .fil111 {fill:#C1DEA6} .fil133 {fill:#C3DFA9} .fil165 {fill:#D8BDBD} .fil145 {fill:#E7CFD5} .fil166 {fill:#FCEEF3} .fil24 {fill:#546647} .fil64 {fill:#A17C6C} .fil97 {fill:#69584C} .fil77 {fill:#D1B6A8} .fil0 {fill:#D8E8C8} .fil28 {fill:#9A9898} .fil146 {fill:#FCE2EC} .fil40 {fill:#546647;fill-opacity:0.501961}</style>
+  <mask id="ec">
+   <radialGradient id="ed" cx="23883" cy="8469.8" r="26101" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="-127.5" offset=".61961"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </radialGradient>
+   <rect x="7470" y="1320" width="27060" height="27060" fill="url(#ed)"/>
+  </mask>
+  <mask id="fk">
+   <linearGradient id="df" x1="25414" x2="26321" y1="15135" y2="17884" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="24655" y="14495" width="2700" height="3562" fill="url(#df)"/>
+  </mask>
+  <mask id="fv">
+   <linearGradient id="dg" x1="23822" x2="25778" y1="17200" y2="18101" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="23805" y="15390" width="1993" height="2667" fill="url(#dg)"/>
+  </mask>
+  <mask id="gl">
+   <linearGradient id="dp" x1="23683" x2="25186" y1="17378" y2="18721" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="23702" y="17254" width="2096" height="3089" fill="url(#dp)"/>
+  </mask>
+  <mask id="gw">
+   <linearGradient id="dy" x1="21780" x2="22957" y1="17738" y2="20758" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="20271" y="17254" width="3535" height="4147" fill="url(#dy)"/>
+  </mask>
+  <mask id="ee">
+   <linearGradient id="dc" x1="20289" x2="20158" y1="18091" y2="21302" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="18866" y="18074" width="2869" height="3327" fill="url(#dc)"/>
+  </mask>
+  <mask id="ep">
+   <linearGradient id="dd" x1="19265" x2="17799" y1="17544" y2="20323" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="17146" y="16821" width="3126" height="4400" fill="url(#dd)"/>
+  </mask>
+  <mask id="fa">
+   <linearGradient id="de" x1="17393" x2="16991" y1="16748" y2="19670" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="14872" y="16240" width="3058" height="3452" fill="url(#de)"/>
+  </mask>
+  <mask id="fi">
+   <rect x="24655" y="14495" width="2700" height="3562" fill="url(#df)"/>
+  </mask>
+  <mask id="fj">
+   <rect x="23805" y="15390" width="1993" height="2667" fill="url(#dg)"/>
+  </mask>
+  <mask id="fl">
+   <rect x="23702" y="17254" width="2096" height="3089" fill="url(#dp)"/>
+  </mask>
+  <mask id="fm">
+   <rect x="20271" y="17254" width="3535" height="4147" fill="url(#dy)"/>
+  </mask>
+  <mask id="fn">
+   <rect x="18866" y="18074" width="2869" height="3327" fill="url(#dc)"/>
+  </mask>
+  <mask id="fo">
+   <rect x="17146" y="16821" width="3126" height="4400" fill="url(#dd)"/>
+  </mask>
+  <mask id="fp">
+   <rect x="14872" y="16240" width="3058" height="3452" fill="url(#de)"/>
+  </mask>
+  <mask id="fq">
+   <rect x="24655" y="14495" width="2700" height="3562" fill="url(#df)"/>
+  </mask>
+  <mask id="fr">
+   <rect x="23805" y="15390" width="1993" height="2667" fill="url(#dg)"/>
+  </mask>
+  <mask id="fs">
+   <rect x="23702" y="17254" width="2096" height="3089" fill="url(#dp)"/>
+  </mask>
+  <mask id="ft">
+   <rect x="20271" y="17254" width="3535" height="4147" fill="url(#dy)"/>
+  </mask>
+  <mask id="fu">
+   <rect x="18866" y="18074" width="2869" height="3327" fill="url(#dc)"/>
+  </mask>
+  <mask id="fw">
+   <rect x="17146" y="16821" width="3126" height="4400" fill="url(#dd)"/>
+  </mask>
+  <mask id="fx">
+   <rect x="14872" y="16240" width="3058" height="3452" fill="url(#de)"/>
+  </mask>
+  <mask id="fy">
+   <linearGradient id="fz" x1="19776" x2="20245" y1="16405" y2="11514" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="17135" y="12270" width="5060" height="1613" fill="url(#fz)"/>
+  </mask>
+  <mask id="ga">
+   <linearGradient id="gb" x1="16858" x2="26849" y1="16054" y2="11641" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="21520" y="13104" width="4500" height="1630" fill="url(#gb)"/>
+  </mask>
+  <mask id="gc">
+   <linearGradient id="gd" x1="22351" x2="29548" y1="15652" y2="13165" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="25536" y="14187" width="1459" height="876" fill="url(#gd)"/>
+  </mask>
+  <mask id="ge">
+   <linearGradient id="gf" x1="21720" x2="25688" y1="15856" y2="16751" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="24119" y="16312" width="1166" height="534" fill="url(#gf)"/>
+  </mask>
+  <mask id="gg">
+   <linearGradient id="gh" x1="27413" x2="24916" y1="11353" y2="17121" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="25055" y="14878" width="1123" height="1968" fill="url(#gh)"/>
+  </mask>
+  <mask id="gi">
+   <linearGradient id="dh" x1="24718" x2="24828" y1="13582" y2="13401" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="24436" y="13409" width="450" height="139" fill="url(#dh)"/>
+  </mask>
+  <mask id="gj">
+   <linearGradient id="di" x1="24654" x2="24890" y1="13533" y2="13450" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="24660" y="13436" width="523" height="494" fill="url(#di)"/>
+  </mask>
+  <mask id="gk">
+   <linearGradient id="dj" x1="23607" x2="23571" y1="14992" y2="14752" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="22818" y="14748" width="781" height="364" fill="url(#dj)"/>
+  </mask>
+  <mask id="gm">
+   <linearGradient id="dk" x1="23045" x2="23002" y1="15068" y2="14850" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="22818" y="14688" width="781" height="424" fill="url(#dk)"/>
+  </mask>
+  <mask id="gn">
+   <linearGradient id="dl" x1="23579" x2="23599" y1="14997" y2="14748" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="23579" y="14748" width="526" height="315" fill="url(#dl)"/>
+  </mask>
+  <mask id="go">
+   <linearGradient id="dm" x1="24104" x2="24086" y1="15061" y2="14701" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="23599" y="14692" width="582" height="371" fill="url(#dm)"/>
+  </mask>
+  <mask id="gp">
+   <linearGradient id="dn" x1="24081" x2="24203" y1="15055" y2="14700" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="24105" y="14636" width="1205" height="455" fill="url(#dn)"/>
+  </mask>
+  <mask id="gq">
+   <linearGradient id="do" x1="25098" x2="25272" y1="15361" y2="15082" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="24949" y="15081" width="386" height="431" fill="url(#do)"/>
+  </mask>
+  <mask id="gr">
+   <linearGradient id="dq" x1="25258" x2="25428" y1="16795" y2="16710" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="25227" y="16709" width="202" height="454" fill="url(#dq)"/>
+  </mask>
+  <mask id="gs">
+   <linearGradient id="dr" x1="25415" x2="25469" y1="17166" y2="16716" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="-42.169" offset=".61961"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="25415" y="16709" width="76.12" height="453.86" fill="url(#dr)"/>
+  </mask>
+  <mask id="gt">
+   <linearGradient id="ds" x1="25236" x2="25444" y1="16726" y2="16687" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="25227" y="16095" width="388" height="628" fill="url(#ds)"/>
+  </mask>
+  <mask id="gu">
+   <linearGradient id="dt" x1="25335" x2="25526" y1="15512" y2="15365" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="25271" y="14948" width="255" height="565" fill="url(#dt)"/>
+  </mask>
+  <mask id="gv">
+   <linearGradient id="du" x1="25334" x2="25525" y1="15509" y2="15546" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="25335" y="15364" width="280" height="836" fill="url(#du)"/>
+  </mask>
+  <mask id="gx">
+   <linearGradient id="dv" x1="26637" x2="26737" y1="14735" y2="14587" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="26319" y="14355" width="536" height="378" fill="url(#dv)"/>
+  </mask>
+  <mask id="gy">
+   <linearGradient id="dw" x1="26635" x2="26751" y1="14733" y2="14770" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="26592" y="14605" width="263" height="389" fill="url(#dw)"/>
+  </mask>
+  <mask id="gz">
+   <linearGradient id="dx" x1="26591" x2="26698" y1="14993" y2="14958" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="26592" y="14957" width="189" height="239" fill="url(#dx)"/>
+  </mask>
+  <mask id="ha">
+   <rect x="24436" y="13409" width="450" height="139" fill="url(#dh)"/>
+  </mask>
+  <mask id="hb">
+   <rect x="24660" y="13436" width="523" height="494" fill="url(#di)"/>
+  </mask>
+  <mask id="hc">
+   <rect x="22818" y="14748" width="781" height="364" fill="url(#dj)"/>
+  </mask>
+  <mask id="hd">
+   <rect x="22818" y="14688" width="781" height="424" fill="url(#dk)"/>
+  </mask>
+  <mask id="dz">
+   <rect x="23579" y="14748" width="526" height="315" fill="url(#dl)"/>
+  </mask>
+  <mask id="ea">
+   <rect x="23599" y="14692" width="582" height="371" fill="url(#dm)"/>
+  </mask>
+  <mask id="eb">
+   <rect x="24105" y="14636" width="1205" height="455" fill="url(#dn)"/>
+  </mask>
+  <mask id="ef">
+   <rect x="24949" y="15081" width="386" height="431" fill="url(#do)"/>
+  </mask>
+  <mask id="eg">
+   <rect x="25227" y="16709" width="202" height="454" fill="url(#dq)"/>
+  </mask>
+  <mask id="eh">
+   <rect x="25415" y="16709" width="76.12" height="453.86" fill="url(#dr)"/>
+  </mask>
+  <mask id="ei">
+   <rect x="25227" y="16095" width="388" height="628" fill="url(#ds)"/>
+  </mask>
+  <mask id="ej">
+   <rect x="25271" y="14948" width="255" height="565" fill="url(#dt)"/>
+  </mask>
+  <mask id="ek">
+   <rect x="25335" y="15364" width="280" height="836" fill="url(#du)"/>
+  </mask>
+  <mask id="el">
+   <rect x="26319" y="14355" width="536" height="378" fill="url(#dv)"/>
+  </mask>
+  <mask id="em">
+   <rect x="26592" y="14605" width="263" height="389" fill="url(#dw)"/>
+  </mask>
+  <mask id="en">
+   <rect x="26592" y="14957" width="189" height="239" fill="url(#dx)"/>
+  </mask>
+  <mask id="eo">
+   <rect x="24436" y="13409" width="450" height="139" fill="url(#dh)"/>
+  </mask>
+  <mask id="eq">
+   <rect x="24660" y="13436" width="523" height="494" fill="url(#di)"/>
+  </mask>
+  <mask id="er">
+   <rect x="22818" y="14748" width="781" height="364" fill="url(#dj)"/>
+  </mask>
+  <mask id="es">
+   <rect x="22818" y="14688" width="781" height="424" fill="url(#dk)"/>
+  </mask>
+  <mask id="et">
+   <rect x="23579" y="14748" width="526" height="315" fill="url(#dl)"/>
+  </mask>
+  <mask id="eu">
+   <rect x="23599" y="14692" width="582" height="371" fill="url(#dm)"/>
+  </mask>
+  <mask id="ev">
+   <rect x="24105" y="14636" width="1205" height="455" fill="url(#dn)"/>
+  </mask>
+  <mask id="ew">
+   <rect x="24949" y="15081" width="386" height="431" fill="url(#do)"/>
+  </mask>
+  <mask id="ex">
+   <rect x="25227" y="16709" width="202" height="454" fill="url(#dq)"/>
+  </mask>
+  <mask id="ey">
+   <rect x="25415" y="16709" width="76.12" height="453.86" fill="url(#dr)"/>
+  </mask>
+  <mask id="ez">
+   <rect x="25227" y="16095" width="388" height="628" fill="url(#ds)"/>
+  </mask>
+  <mask id="fb">
+   <rect x="25271" y="14948" width="255" height="565" fill="url(#dt)"/>
+  </mask>
+  <mask id="fc">
+   <rect x="25335" y="15364" width="280" height="836" fill="url(#du)"/>
+  </mask>
+  <mask id="fd">
+   <rect x="26319" y="14355" width="536" height="378" fill="url(#dv)"/>
+  </mask>
+  <mask id="fe">
+   <rect x="26592" y="14605" width="263" height="389" fill="url(#dw)"/>
+  </mask>
+  <mask id="ff">
+   <rect x="26592" y="14957" width="189" height="239" fill="url(#dx)"/>
+  </mask>
+  <mask id="fg">
+   <linearGradient id="fh" x1="18697" x2="25216" y1="18325" y2="16124" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" offset="0"/>
+    <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+   </linearGradient>
+   <rect x="20509" y="16675" width="3209" height="1008" fill="url(#fh)"/>
+  </mask>
+ </defs>
+ <rect class="fil0" x="7480" y="1330" width="27040" height="27040"/>
+ <polygon class="fil1" points="7480 1330 34520 1330 34520 28370 7480 28370" mask="url(#ec)"/>
+ <polygon class="fil2" points="19909 13988 18183 12154 16006 13108"/>
+ <polygon class="fil3" points="19909 13988 16006 13108 16319 14674"/>
+ <polygon class="fil4" points="19909 13988 16319 14674 20689 16199"/>
+ <polygon class="fil5" points="18183 12154 19909 13988 20793 12109"/>
+ <polygon class="fil2" points="20793 12109 19909 13988 23060 13048"/>
+ <polygon class="fil3" points="23060 13048 19909 13988 20689 16199"/>
+ <polygon class="fil5" points="23060 13048 20689 16199 24656 15390"/>
+ <polygon class="fil6" points="23060 13048 24656 15390 25849 13048"/>
+ <polygon class="fil7" points="25849 13048 24656 15390 27355 14495"/>
+ <polygon class="fil2" points="24656 15390 20689 16199 23806 17254"/>
+ <polygon class="fil3" points="23806 17254 20689 16199 20271 18074"/>
+ <polygon class="fil3" points="20271 18074 20689 16199 17930 16821"/>
+ <polygon class="fil3" points="17930 16821 20689 16199 16319 14674"/>
+ <polygon class="fil4" points="17930 16821 16319 14674 15953 15071 14872 16240"/>
+ <polygon class="fil8" points="15953 15071 16319 14674 16006 13108"/>
+ <polygon class="fil8" points="17930 16821 14872 16240 17146 19691"/>
+ <polygon class="fil9" points="17930 16821 17146 19691 18866 21221 20271 18074"/>
+ <polygon class="fil8" points="18866 21221 17146 19691 18400 21740"/>
+ <polygon class="fil10" points="18866 21221 18400 21740 19141 23613"/>
+ <polygon class="fil11" points="18866 21221 19141 23613 20750 22396"/>
+ <polygon class="fil12" points="18866 21221 21734 21401 20271 18074"/>
+ <polygon class="fil9" points="21734 21401 18866 21221 20750 22396"/>
+ <polygon class="fil13" points="20271 18074 21734 21401 23703 20343 23806 17254"/>
+ <polygon class="fil8" points="21734 21401 20750 22396 22570 23327"/>
+ <polygon class="fil14" points="21734 21401 22570 23327 23703 20343"/>
+ <polygon class="fil14" points="23703 20343 22570 23327 23734 21486"/>
+ <polygon class="fil15" points="23703 20343 23734 21486 25798 18057"/>
+ <polygon class="fil16" points="23703 20343 25798 18057 23806 17254"/>
+ <polygon class="fil17" points="23806 17254 25798 18057 24656 15390"/>
+ <polygon class="fil15" points="24656 15390 25798 18057 27355 14495"/>
+ <polygon class="fil18" points="24656 15390 25798 18057 27355 14495" mask="url(#fk)"/>
+ <polygon class="fil7" points="23806 17254 25798 18057 24656 15390" mask="url(#fv)"/>
+ <polygon class="fil19" points="23703 20343 25798 18057 23806 17254" mask="url(#gl)"/>
+ <polygon class="fil20" points="20271 18074 21734 21401 23703 20343 23806 17254" mask="url(#gw)"/>
+ <polygon class="fil21" points="18866 21221 21734 21401 20271 18074" mask="url(#ee)"/>
+ <polygon class="fil22" points="17930 16821 17146 19691 18866 21221 20271 18074" mask="url(#ep)"/>
+ <polygon class="fil23" points="17930 16821 14872 16240 17146 19691" mask="url(#fa)"/>
+ <polygon class="fil2" points="19909 13988 18183 12154 16006 13108"/>
+ <polygon class="fil3" points="19909 13988 16006 13108 16319 14674"/>
+ <polygon class="fil4" points="19909 13988 16319 14674 20689 16199"/>
+ <polygon class="fil5" points="18183 12154 19909 13988 20793 12109"/>
+ <polygon class="fil2" points="20793 12109 19909 13988 23060 13048"/>
+ <polygon class="fil3" points="23060 13048 19909 13988 20689 16199"/>
+ <polygon class="fil5" points="23060 13048 20689 16199 24656 15390"/>
+ <polygon class="fil6" points="23060 13048 24656 15390 25849 13048"/>
+ <polygon class="fil7" points="25849 13048 24656 15390 27355 14495"/>
+ <polygon class="fil2" points="24656 15390 20689 16199 23806 17254"/>
+ <polygon class="fil3" points="23806 17254 20689 16199 20271 18074"/>
+ <polygon class="fil3" points="20271 18074 20689 16199 17930 16821"/>
+ <polygon class="fil3" points="17930 16821 20689 16199 16319 14674"/>
+ <polygon class="fil4" points="17930 16821 16319 14674 15953 15071 14872 16240"/>
+ <polygon class="fil8" points="15953 15071 16319 14674 16006 13108"/>
+ <polygon class="fil8" points="17930 16821 14872 16240 17146 19691"/>
+ <polygon class="fil9" points="17930 16821 17146 19691 18866 21221 20271 18074"/>
+ <polygon class="fil8" points="18866 21221 17146 19691 18400 21740"/>
+ <polygon class="fil10" points="18866 21221 18400 21740 19141 23613"/>
+ <polygon class="fil11" points="18866 21221 19141 23613 20750 22396"/>
+ <polygon class="fil12" points="18866 21221 21734 21401 20271 18074"/>
+ <polygon class="fil9" points="21734 21401 18866 21221 20750 22396"/>
+ <polygon class="fil13" points="20271 18074 21734 21401 23703 20343 23806 17254"/>
+ <polygon class="fil8" points="21734 21401 20750 22396 22570 23327"/>
+ <polygon class="fil14" points="21734 21401 22570 23327 23703 20343"/>
+ <polygon class="fil14" points="23703 20343 22570 23327 23734 21486"/>
+ <polygon class="fil15" points="23703 20343 23734 21486 25798 18057"/>
+ <polygon class="fil16" points="23703 20343 25798 18057 23806 17254"/>
+ <polygon class="fil17" points="23806 17254 25798 18057 24656 15390"/>
+ <polygon class="fil15" points="24656 15390 25798 18057 27355 14495"/>
+ <polygon class="fil18" points="24656 15390 25798 18057 27355 14495" mask="url(#fi)"/>
+ <polygon class="fil7" points="23806 17254 25798 18057 24656 15390" mask="url(#fj)"/>
+ <polygon class="fil19" points="23703 20343 25798 18057 23806 17254" mask="url(#fl)"/>
+ <polygon class="fil20" points="20271 18074 21734 21401 23703 20343 23806 17254" mask="url(#fm)"/>
+ <polygon class="fil21" points="18866 21221 21734 21401 20271 18074" mask="url(#fn)"/>
+ <polygon class="fil22" points="17930 16821 17146 19691 18866 21221 20271 18074" mask="url(#fo)"/>
+ <polygon class="fil23" points="17930 16821 14872 16240 17146 19691" mask="url(#fp)"/>
+ <polygon class="fil2" points="19909 13988 18183 12154 16006 13108"/>
+ <polygon class="fil3" points="19909 13988 16006 13108 16319 14674"/>
+ <polygon class="fil4" points="19909 13988 16319 14674 20689 16199"/>
+ <polygon class="fil5" points="18183 12154 19909 13988 20793 12109"/>
+ <polygon class="fil2" points="20793 12109 19909 13988 23060 13048"/>
+ <polygon class="fil3" points="23060 13048 19909 13988 20689 16199"/>
+ <polygon class="fil5" points="23060 13048 20689 16199 24656 15390"/>
+ <polygon class="fil6" points="23060 13048 24656 15390 25849 13048"/>
+ <polygon class="fil7" points="25849 13048 24656 15390 27355 14495"/>
+ <polygon class="fil2" points="24656 15390 20689 16199 23806 17254"/>
+ <polygon class="fil3" points="23806 17254 20689 16199 20271 18074"/>
+ <polygon class="fil3" points="20271 18074 20689 16199 17930 16821"/>
+ <polygon class="fil3" points="17930 16821 20689 16199 16319 14674"/>
+ <polygon class="fil4" points="17930 16821 16319 14674 15953 15071 14872 16240"/>
+ <polygon class="fil8" points="15953 15071 16319 14674 16006 13108"/>
+ <polygon class="fil8" points="17930 16821 14872 16240 17146 19691"/>
+ <polygon class="fil9" points="17930 16821 17146 19691 18866 21221 20271 18074"/>
+ <polygon class="fil8" points="18866 21221 17146 19691 18400 21740"/>
+ <polygon class="fil10" points="18866 21221 18400 21740 19141 23613"/>
+ <polygon class="fil11" points="18866 21221 19141 23613 20750 22396"/>
+ <polygon class="fil12" points="18866 21221 21734 21401 20271 18074"/>
+ <polygon class="fil9" points="21734 21401 18866 21221 20750 22396"/>
+ <polygon class="fil13" points="20271 18074 21734 21401 23703 20343 23806 17254"/>
+ <polygon class="fil8" points="21734 21401 20750 22396 22570 23327"/>
+ <polygon class="fil14" points="21734 21401 22570 23327 23703 20343"/>
+ <polygon class="fil14" points="23703 20343 22570 23327 23734 21486"/>
+ <polygon class="fil15" points="23703 20343 23734 21486 25798 18057"/>
+ <polygon class="fil16" points="23703 20343 25798 18057 23806 17254"/>
+ <polygon class="fil17" points="23806 17254 25798 18057 24656 15390"/>
+ <polygon class="fil15" points="24656 15390 25798 18057 27355 14495"/>
+ <polygon class="fil18" points="24656 15390 25798 18057 27355 14495" mask="url(#fq)"/>
+ <polygon class="fil7" points="23806 17254 25798 18057 24656 15390" mask="url(#fr)"/>
+ <polygon class="fil19" points="23703 20343 25798 18057 23806 17254" mask="url(#fs)"/>
+ <polygon class="fil20" points="20271 18074 21734 21401 23703 20343 23806 17254" mask="url(#ft)"/>
+ <polygon class="fil21" points="18866 21221 21734 21401 20271 18074" mask="url(#fu)"/>
+ <polygon class="fil22" points="17930 16821 17146 19691 18866 21221 20271 18074" mask="url(#fw)"/>
+ <polygon class="fil23" points="17930 16821 14872 16240 17146 19691" mask="url(#fx)"/>
+ <polygon class="fil24" points="18439 12416 18213 12499 19999 12931 22185 13466 21930 13603 19941 13021 17949 12596 17745 12670 19068 12926 20675 13329 21784 13682 21608 13873 20530 13521 18836 13019 17478 12768 17352 12814 17145 12777 17246 12626 18027 12280 18032 12326 18196 12437" mask="url(#fy)"/>
+ <polygon class="fil24" points="22840 13114 21784 13682 21530 13957 21720 14010 21905 14010 22190 13882 23650 14042 24681 14323 25579 14724 26009 14564 24919 14103 23712 13856 22607 13695 23112 13469 22937 13424 22831 13231" mask="url(#ga)"/>
+ <polygon class="fil25" points="20438 16880 23435 15973 23483 15603"/>
+ <polygon class="fil26" points="20438 16880 23483 15603 20419 16758 20429 16806"/>
+ <polygon class="fil27" points="20419 16758 23483 15603 23435 15547 20402 16671"/>
+ <polygon class="fil28" points="21537 16808 20450 16987 20458 17060 21607 16871"/>
+ <polygon class="fil29" points="21607 16871 20458 17060 20486 17300"/>
+ <polygon class="fil30" points="21607 16871 20486 17300 21668 17258"/>
+ <polygon class="fil31" points="21537 16808 21607 16871 22544 16642 22290 16629"/>
+ <polygon class="fil32" points="22544 16642 21607 16871 21668 17258"/>
+ <polygon class="fil33" points="22544 16642 21668 17258 22610 16877"/>
+ <polygon class="fil34" points="22290 16629 22544 16642 23444 16146 23378 16146"/>
+ <polygon class="fil30" points="22544 16642 22610 16877 23444 16146"/>
+ <polygon class="fil35" points="23444 16146 22610 16877 23408 16765"/>
+ <polygon class="fil25" points="20438 16880 23435 15973 23483 15603"/>
+ <polygon class="fil26" points="20438 16880 23483 15603 20419 16758 20429 16806"/>
+ <polygon class="fil27" points="20419 16758 23483 15603 23435 15547 20402 16671"/>
+ <polygon class="fil28" points="21537 16808 20450 16987 20458 17060 21607 16871"/>
+ <polygon class="fil29" points="21607 16871 20458 17060 20486 17300"/>
+ <polygon class="fil30" points="21607 16871 20486 17300 21668 17258"/>
+ <polygon class="fil31" points="21537 16808 21607 16871 22544 16642 22290 16629"/>
+ <polygon class="fil32" points="22544 16642 21607 16871 21668 17258"/>
+ <polygon class="fil33" points="22544 16642 21668 17258 22610 16877"/>
+ <polygon class="fil34" points="22290 16629 22544 16642 23444 16146 23378 16146"/>
+ <polygon class="fil30" points="22544 16642 22610 16877 23444 16146"/>
+ <polygon class="fil35" points="23444 16146 22610 16877 23408 16765"/>
+ <polygon class="fil24" points="26779 14197 25652 14735 25546 14904 25673 14979 25899 14900 25673 15053 26168 14888 26231 14785 26985 14522 26731 14358" mask="url(#gc)"/>
+ <polygon class="fil36" points="23954 15342 25527 14652 25310 14637 23916 15197"/>
+ <polygon class="fil37" points="25527 14652 23954 15342 23933 15858"/>
+ <polygon class="fil29" points="25527 14652 23933 15858 25437 14986"/>
+ <polygon class="fil38" points="25527 14652 25437 14986 26368 14499"/>
+ <polygon class="fil28" points="25527 14652 27278 13234 27178 13144 25310 14637"/>
+ <polygon class="fil39" points="27278 13234 25527 14652 26368 14499"/>
+ <polygon class="fil30" points="27278 13234 26368 14499 27019 13763"/>
+ <polygon class="fil36" points="23954 15342 25527 14652 25310 14637 23916 15197"/>
+ <polygon class="fil37" points="25527 14652 23954 15342 23933 15858"/>
+ <polygon class="fil29" points="25527 14652 23933 15858 25437 14986"/>
+ <polygon class="fil38" points="25527 14652 25437 14986 26368 14499"/>
+ <polygon class="fil28" points="25527 14652 27278 13234 27178 13144 25310 14637"/>
+ <polygon class="fil39" points="27278 13234 25527 14652 26368 14499"/>
+ <polygon class="fil30" points="27278 13234 26368 14499 27019 13763"/>
+ <polygon class="fil40" points="23907 16507 24231 16322 24129 16545 23899 16712"/>
+ <polygon class="fil24" points="24231 16322 25065 16346 25275 16836 24129 16545" mask="url(#ge)"/>
+ <polygon class="fil24" points="25673 15053 25065 16346 25275 16836 26168 14888" mask="url(#gg)"/>
+ <polygon class="fil35" points="23250 12889 24377 12919 23265 12482"/>
+ <polygon class="fil28" points="23265 12482 24377 12919 24589 12889 23314 12412"/>
+ <polygon class="fil29" points="24377 12919 23250 12889 24312 13141"/>
+ <polygon class="fil35" points="24377 12919 24312 13141 25595 13370"/>
+ <polygon class="fil30" points="24377 12919 25595 13370 25617 13128"/>
+ <polygon class="fil41" points="24377 12919 25617 13128 25539 13048 24589 12889"/>
+ <polygon class="fil31" points="25539 13048 25617 13128 27096 13133 27118 13060"/>
+ <polygon class="fil30" points="27096 13133 25617 13128 25595 13370"/>
+ <polygon class="fil29" points="27096 13133 25595 13370 26816 13433 27066 13234"/>
+ <polygon class="fil35" points="23250 12889 24377 12919 23265 12482"/>
+ <polygon class="fil28" points="23265 12482 24377 12919 24589 12889 23314 12412"/>
+ <polygon class="fil29" points="24377 12919 23250 12889 24312 13141"/>
+ <polygon class="fil35" points="24377 12919 24312 13141 25595 13370"/>
+ <polygon class="fil30" points="24377 12919 25595 13370 25617 13128"/>
+ <polygon class="fil41" points="24377 12919 25617 13128 25539 13048 24589 12889"/>
+ <polygon class="fil31" points="25539 13048 25617 13128 27096 13133 27118 13060"/>
+ <polygon class="fil30" points="27096 13133 25617 13128 25595 13370"/>
+ <polygon class="fil29" points="27096 13133 25595 13370 26816 13433 27066 13234"/>
+ <polygon class="fil35" points="23250 12889 24377 12919 23265 12482"/>
+ <polygon class="fil28" points="23265 12482 24377 12919 24589 12889 23314 12412"/>
+ <polygon class="fil29" points="24377 12919 23250 12889 24312 13141"/>
+ <polygon class="fil35" points="24377 12919 24312 13141 25595 13370"/>
+ <polygon class="fil30" points="24377 12919 25595 13370 25617 13128"/>
+ <polygon class="fil41" points="24377 12919 25617 13128 25539 13048 24589 12889"/>
+ <polygon class="fil31" points="25539 13048 25617 13128 27096 13133 27118 13060"/>
+ <polygon class="fil30" points="27096 13133 25617 13128 25595 13370"/>
+ <polygon class="fil29" points="27096 13133 25595 13370 26816 13433 27066 13234"/>
+ <polygon class="fil41" points="18232 11485 19465 11869 19557 11833 18286 11442"/>
+ <polygon class="fil29" points="19465 11869 18232 11485 18252 11666"/>
+ <polygon class="fil30" points="19465 11869 18252 11666 19416 12107"/>
+ <polygon class="fil29" points="19465 11869 19416 12107 21277 12411"/>
+ <polygon class="fil31" points="19465 11869 21030 12120 21119 12085 19557 11833"/>
+ <polygon class="fil42" points="21030 12120 19465 11869 21277 12411"/>
+ <polygon class="fil43" points="21030 12120 21277 12411 22910 12200"/>
+ <polygon class="fil44" points="21030 12120 22910 12200 22914 12147 21119 12085"/>
+ <polygon class="fil30" points="22910 12200 21277 12411 22895 12398"/>
+ <polygon class="fil45" points="22884 12541 20108 12440 19994 12457 22880 12589"/>
+ <polygon class="fil29" points="22880 12589 19994 12457 22863 12814"/>
+ <polygon class="fil35" points="22863 12814 19994 12457 20007 12638"/>
+ <polygon class="fil30" points="20007 12638 19994 12457 18344 12175"/>
+ <polygon class="fil25" points="18344 12175 19994 12457 18300 11844"/>
+ <polygon class="fil28" points="18300 11844 19994 12457 20108 12440 18348 11837"/>
+ <polygon class="fil41" points="18232 11485 19465 11869 19557 11833 18286 11442"/>
+ <polygon class="fil29" points="19465 11869 18232 11485 18252 11666"/>
+ <polygon class="fil30" points="19465 11869 18252 11666 19416 12107"/>
+ <polygon class="fil29" points="19465 11869 19416 12107 21277 12411"/>
+ <polygon class="fil31" points="19465 11869 21030 12120 21119 12085 19557 11833"/>
+ <polygon class="fil42" points="21030 12120 19465 11869 21277 12411"/>
+ <polygon class="fil43" points="21030 12120 21277 12411 22910 12200"/>
+ <polygon class="fil44" points="21030 12120 22910 12200 22914 12147 21119 12085"/>
+ <polygon class="fil30" points="22910 12200 21277 12411 22895 12398"/>
+ <polygon class="fil45" points="22884 12541 20108 12440 19994 12457 22880 12589"/>
+ <polygon class="fil29" points="22880 12589 19994 12457 22863 12814"/>
+ <polygon class="fil35" points="22863 12814 19994 12457 20007 12638"/>
+ <polygon class="fil30" points="20007 12638 19994 12457 18344 12175"/>
+ <polygon class="fil25" points="18344 12175 19994 12457 18300 11844"/>
+ <polygon class="fil28" points="18300 11844 19994 12457 20108 12440 18348 11837"/>
+ <polygon class="fil41" points="18232 11485 19465 11869 19557 11833 18286 11442"/>
+ <polygon class="fil29" points="19465 11869 18232 11485 18252 11666"/>
+ <polygon class="fil30" points="19465 11869 18252 11666 19416 12107"/>
+ <polygon class="fil29" points="19465 11869 19416 12107 21277 12411"/>
+ <polygon class="fil31" points="19465 11869 21030 12120 21119 12085 19557 11833"/>
+ <polygon class="fil42" points="21030 12120 19465 11869 21277 12411"/>
+ <polygon class="fil43" points="21030 12120 21277 12411 22910 12200"/>
+ <polygon class="fil44" points="21030 12120 22910 12200 22914 12147 21119 12085"/>
+ <polygon class="fil30" points="22910 12200 21277 12411 22895 12398"/>
+ <polygon class="fil45" points="22884 12541 20108 12440 19994 12457 22880 12589"/>
+ <polygon class="fil29" points="22880 12589 19994 12457 22863 12814"/>
+ <polygon class="fil35" points="22863 12814 19994 12457 20007 12638"/>
+ <polygon class="fil30" points="20007 12638 19994 12457 18344 12175"/>
+ <polygon class="fil25" points="18344 12175 19994 12457 18300 11844"/>
+ <polygon class="fil28" points="18300 11844 19994 12457 20108 12440 18348 11837"/>
+ <polygon class="fil28" points="17753 15991 15488 14895 15404 15001 17465 15978"/>
+ <polygon class="fil25" points="17465 15978 15404 15001 15536 15335 16499 15901"/>
+ <polygon class="fil46" points="17465 15978 16499 15901 18039 16499"/>
+ <polygon class="fil25" points="17465 15978 18039 16499 20075 17191"/>
+ <polygon class="fil47" points="17465 15978 20075 17191 20033 16967"/>
+ <polygon class="fil48" points="17465 15978 20033 16967 20008 16830 17753 15991"/>
+ <polygon class="fil28" points="17753 15991 15488 14895 15404 15001 17465 15978"/>
+ <polygon class="fil25" points="17465 15978 15404 15001 15536 15335 16499 15901"/>
+ <polygon class="fil46" points="17465 15978 16499 15901 18039 16499"/>
+ <polygon class="fil25" points="17465 15978 18039 16499 20075 17191"/>
+ <polygon class="fil47" points="17465 15978 20075 17191 20033 16967"/>
+ <polygon class="fil48" points="17465 15978 20033 16967 20008 16830 17753 15991"/>
+ <polygon class="fil28" points="17753 15991 15488 14895 15404 15001 17465 15978"/>
+ <polygon class="fil25" points="17465 15978 15404 15001 15536 15335 16499 15901"/>
+ <polygon class="fil46" points="17465 15978 16499 15901 18039 16499"/>
+ <polygon class="fil25" points="17465 15978 18039 16499 20075 17191"/>
+ <polygon class="fil47" points="17465 15978 20075 17191 20033 16967"/>
+ <polygon class="fil48" points="17465 15978 20033 16967 20008 16830 17753 15991"/>
+ <polygon class="fil49" points="25428 16709 25227 16723 25415 17163"/>
+ <polygon class="fil50" points="25428 16709 25415 17163 25491 16825"/>
+ <polygon class="fil51" points="25227 16723 25428 16709 25615 16096 25368 16200"/>
+ <polygon class="fil52" points="25615 16096 25428 16709 25785 16203"/>
+ <polygon class="fil53" points="25785 16203 25428 16709 25491 16825 25805 16280"/>
+ <polygon class="fil54" points="25615 16096 25785 16203 25927 15607 25831 15494"/>
+ <polygon class="fil55" points="25615 16096 25831 15494 25526 15365"/>
+ <polygon class="fil56" points="25615 16096 25526 15365 25335 15512 25368 16200"/>
+ <polygon class="fil53" points="25927 15607 25785 16203 25805 16280"/>
+ <polygon class="fil57" points="25831 15494 25927 15607 26246 14779"/>
+ <polygon class="fil53" points="25831 15494 26246 14779 26079 14650 25968 14708"/>
+ <polygon class="fil58" points="25831 15494 25968 14708 25509 14948 25526 15365"/>
+ <polygon class="fil59" points="25526 15365 25509 14948 25437 14986 25272 15082 25335 15512"/>
+ <polygon class="fil56" points="25335 15512 25272 15082 24950 15269"/>
+ <polygon class="fil60" points="26079 14650 26246 14779 26201 14586"/>
+ <polygon class="fil61" points="26319 14525 26637 14733 26855 14605 26496 14355 26368 14499"/>
+ <polygon class="fil58" points="26496 14355 26855 14605 26636 14196"/>
+ <polygon class="fil62" points="26855 14605 26637 14733 26592 14994 26698 14957"/>
+ <polygon class="fil63" points="26855 14605 26698 14957 26734 14986"/>
+ <polygon class="fil64" points="26781 15196 26698 14957 26592 14994"/>
+ <polygon class="fil64" points="26698 14957 26781 15196 26734 14986"/>
+ <polygon class="fil65" points="22818 15112 23599 14748 23381 14689"/>
+ <polygon class="fil56" points="23599 14748 22818 15112 23579 14996"/>
+ <polygon class="fil66" points="23599 14748 24180 14692 24170 14677 24104 14580 23381 14689"/>
+ <polygon class="fil56" points="24180 14692 23599 14748 24105 15062"/>
+ <polygon class="fil67" points="24105 15062 23599 14748 23579 14996"/>
+ <polygon class="fil49" points="24180 14692 24105 15062 24180 15091 25310 14637"/>
+ <polygon class="fil66" points="24180 14692 25160 13581 24791 13930 24104 14580"/>
+ <polygon class="fil65" points="25160 13581 24180 14692 25372 13627"/>
+ <polygon class="fil68" points="25372 13627 24180 14692 25310 14637"/>
+ <polygon class="fil61" points="25372 13627 25310 14637 25611 14396 26118 13522"/>
+ <polygon class="fil69" points="26118 13522 25611 14396 26088 14015"/>
+ <polygon class="fil49" points="24791 13930 25160 13581 25183 13471 24886 13436 24661 13549"/>
+ <polygon class="fil70" points="24436 13410 24661 13549 24886 13436"/>
+ <polygon class="fil71" points="25411 12390 25183 13471 25160 13581 25372 13627 25524 12457"/>
+ <polygon class="fil56" points="25524 12457 25372 13627 25913 12242"/>
+ <polygon class="fil72" points="25913 12242 25372 13627 26118 13522"/>
+ <polygon class="fil73" points="25913 12242 26118 13522 26283 12255"/>
+ <polygon class="fil63" points="26283 12255 26118 13522 26640 12513"/>
+ <polygon class="fil55" points="26469 13711 26118 13522 26088 14015"/>
+ <polygon class="fil58" points="26118 13522 26469 13711 26613 13596 26640 12513"/>
+ <polygon class="fil52" points="26640 12513 26613 13596 26657 13561 26868 12622"/>
+ <polygon class="fil49" points="25358 11398 25549 10512 25041 10459"/>
+ <polygon class="fil51" points="25549 10512 25358 11398 25833 11126"/>
+ <polygon class="fil74" points="25833 11126 25358 11398 25913 12242"/>
+ <polygon class="fil51" points="25913 12242 25358 11398 25524 12457"/>
+ <polygon class="fil75" points="25524 12457 25358 11398 25411 12390"/>
+ <polygon class="fil76" points="25833 11126 25913 12242 26190 10689"/>
+ <polygon class="fil61" points="26190 10689 25913 12242 26329 10974"/>
+ <polygon class="fil77" points="26190 10689 26329 10974 26574 10729"/>
+ <polygon class="fil63" points="26574 10729 26329 10974 26283 12255"/>
+ <polygon class="fil78" points="26283 12255 26329 10974 25913 12242"/>
+ <polygon class="fil73" points="26574 10729 26283 12255 26640 12513 26585 11023"/>
+ <polygon class="fil79" points="26585 11023 26640 12513 26865 11065"/>
+ <polygon class="fil80" points="26865 11065 26640 12513 26868 12622 27113 11472"/>
+ <polygon class="fil58" points="26865 11065 27113 11472 27841 10737"/>
+ <polygon class="fil81" points="26865 11065 27841 10737 27642 10665"/>
+ <polygon class="fil82" points="27841 10737 27113 11472 27758 10899"/>
+ <polygon class="fil83" points="24436 13410 24661 13549 24886 13436" mask="url(#gi)"/>
+ <polygon class="fil84" points="24791 13930 25160 13581 25183 13471 24886 13436 24661 13549" mask="url(#gj)"/>
+ <polygon class="fil85" points="23599 14748 22818 15112 23579 14996" mask="url(#gk)"/>
+ <polygon class="fil5" points="22818 15112 23599 14748 23381 14689" mask="url(#gm)"/>
+ <polygon class="fil86" points="24105 15062 23599 14748 23579 14996" mask="url(#gn)"/>
+ <polygon class="fil87" points="24180 14692 23599 14748 24105 15062" mask="url(#go)"/>
+ <polygon class="fil88" points="24180 14692 24105 15062 24180 15091 25310 14637" mask="url(#gp)"/>
+ <polygon class="fil89" points="25335 15512 25272 15082 24950 15269" mask="url(#gq)"/>
+ <polygon class="fil90" points="25428 16709 25227 16723 25415 17163" mask="url(#gr)"/>
+ <polygon class="fil91" points="25428 16709 25415 17163 25491 16825" mask="url(#gs)"/>
+ <polygon class="fil92" points="25227 16723 25428 16709 25615 16096 25368 16200" mask="url(#gt)"/>
+ <polygon class="fil93" points="25526 15365 25509 14948 25437 14986 25272 15082 25335 15512" mask="url(#gu)"/>
+ <polygon class="fil94" points="25615 16096 25526 15365 25335 15512 25368 16200" mask="url(#gv)"/>
+ <polygon class="fil95" points="26319 14525 26637 14733 26855 14605 26496 14355 26368 14499" mask="url(#gx)"/>
+ <polygon class="fil96" points="26855 14605 26637 14733 26592 14994 26698 14957" mask="url(#gy)"/>
+ <polygon class="fil93" points="26781 15196 26698 14957 26592 14994" mask="url(#gz)"/>
+ <polygon class="fil49" points="25428 16709 25227 16723 25415 17163"/>
+ <polygon class="fil50" points="25428 16709 25415 17163 25491 16825"/>
+ <polygon class="fil51" points="25227 16723 25428 16709 25615 16096 25368 16200"/>
+ <polygon class="fil52" points="25615 16096 25428 16709 25785 16203"/>
+ <polygon class="fil53" points="25785 16203 25428 16709 25491 16825 25805 16280"/>
+ <polygon class="fil54" points="25615 16096 25785 16203 25927 15607 25831 15494"/>
+ <polygon class="fil55" points="25615 16096 25831 15494 25526 15365"/>
+ <polygon class="fil56" points="25615 16096 25526 15365 25335 15512 25368 16200"/>
+ <polygon class="fil53" points="25927 15607 25785 16203 25805 16280"/>
+ <polygon class="fil57" points="25831 15494 25927 15607 26246 14779"/>
+ <polygon class="fil53" points="25831 15494 26246 14779 26079 14650 25968 14708"/>
+ <polygon class="fil58" points="25831 15494 25968 14708 25509 14948 25526 15365"/>
+ <polygon class="fil59" points="25526 15365 25509 14948 25437 14986 25272 15082 25335 15512"/>
+ <polygon class="fil56" points="25335 15512 25272 15082 24950 15269"/>
+ <polygon class="fil60" points="26079 14650 26246 14779 26201 14586"/>
+ <polygon class="fil61" points="26319 14525 26637 14733 26855 14605 26496 14355 26368 14499"/>
+ <polygon class="fil58" points="26496 14355 26855 14605 26636 14196"/>
+ <polygon class="fil62" points="26855 14605 26637 14733 26592 14994 26698 14957"/>
+ <polygon class="fil63" points="26855 14605 26698 14957 26734 14986"/>
+ <polygon class="fil64" points="26781 15196 26698 14957 26592 14994"/>
+ <polygon class="fil64" points="26698 14957 26781 15196 26734 14986"/>
+ <polygon class="fil65" points="22818 15112 23599 14748 23381 14689"/>
+ <polygon class="fil56" points="23599 14748 22818 15112 23579 14996"/>
+ <polygon class="fil66" points="23599 14748 24180 14692 24170 14677 24104 14580 23381 14689"/>
+ <polygon class="fil56" points="24180 14692 23599 14748 24105 15062"/>
+ <polygon class="fil67" points="24105 15062 23599 14748 23579 14996"/>
+ <polygon class="fil49" points="24180 14692 24105 15062 24180 15091 25310 14637"/>
+ <polygon class="fil66" points="24180 14692 25160 13581 24791 13930 24104 14580"/>
+ <polygon class="fil65" points="25160 13581 24180 14692 25372 13627"/>
+ <polygon class="fil68" points="25372 13627 24180 14692 25310 14637"/>
+ <polygon class="fil61" points="25372 13627 25310 14637 25611 14396 26118 13522"/>
+ <polygon class="fil69" points="26118 13522 25611 14396 26088 14015"/>
+ <polygon class="fil49" points="24791 13930 25160 13581 25183 13471 24886 13436 24661 13549"/>
+ <polygon class="fil70" points="24436 13410 24661 13549 24886 13436"/>
+ <polygon class="fil71" points="25411 12390 25183 13471 25160 13581 25372 13627 25524 12457"/>
+ <polygon class="fil56" points="25524 12457 25372 13627 25913 12242"/>
+ <polygon class="fil72" points="25913 12242 25372 13627 26118 13522"/>
+ <polygon class="fil73" points="25913 12242 26118 13522 26283 12255"/>
+ <polygon class="fil63" points="26283 12255 26118 13522 26640 12513"/>
+ <polygon class="fil55" points="26469 13711 26118 13522 26088 14015"/>
+ <polygon class="fil58" points="26118 13522 26469 13711 26613 13596 26640 12513"/>
+ <polygon class="fil52" points="26640 12513 26613 13596 26657 13561 26868 12622"/>
+ <polygon class="fil49" points="25358 11398 25549 10512 25041 10459"/>
+ <polygon class="fil51" points="25549 10512 25358 11398 25833 11126"/>
+ <polygon class="fil74" points="25833 11126 25358 11398 25913 12242"/>
+ <polygon class="fil51" points="25913 12242 25358 11398 25524 12457"/>
+ <polygon class="fil75" points="25524 12457 25358 11398 25411 12390"/>
+ <polygon class="fil76" points="25833 11126 25913 12242 26190 10689"/>
+ <polygon class="fil61" points="26190 10689 25913 12242 26329 10974"/>
+ <polygon class="fil77" points="26190 10689 26329 10974 26574 10729"/>
+ <polygon class="fil63" points="26574 10729 26329 10974 26283 12255"/>
+ <polygon class="fil78" points="26283 12255 26329 10974 25913 12242"/>
+ <polygon class="fil73" points="26574 10729 26283 12255 26640 12513 26585 11023"/>
+ <polygon class="fil79" points="26585 11023 26640 12513 26865 11065"/>
+ <polygon class="fil80" points="26865 11065 26640 12513 26868 12622 27113 11472"/>
+ <polygon class="fil58" points="26865 11065 27113 11472 27841 10737"/>
+ <polygon class="fil81" points="26865 11065 27841 10737 27642 10665"/>
+ <polygon class="fil82" points="27841 10737 27113 11472 27758 10899"/>
+ <polygon class="fil83" points="24436 13410 24661 13549 24886 13436" mask="url(#ha)"/>
+ <polygon class="fil84" points="24791 13930 25160 13581 25183 13471 24886 13436 24661 13549" mask="url(#hb)"/>
+ <polygon class="fil85" points="23599 14748 22818 15112 23579 14996" mask="url(#hc)"/>
+ <polygon class="fil5" points="22818 15112 23599 14748 23381 14689" mask="url(#hd)"/>
+ <polygon class="fil86" points="24105 15062 23599 14748 23579 14996" mask="url(#dz)"/>
+ <polygon class="fil87" points="24180 14692 23599 14748 24105 15062" mask="url(#ea)"/>
+ <polygon class="fil88" points="24180 14692 24105 15062 24180 15091 25310 14637" mask="url(#eb)"/>
+ <polygon class="fil89" points="25335 15512 25272 15082 24950 15269" mask="url(#ef)"/>
+ <polygon class="fil90" points="25428 16709 25227 16723 25415 17163" mask="url(#eg)"/>
+ <polygon class="fil91" points="25428 16709 25415 17163 25491 16825" mask="url(#eh)"/>
+ <polygon class="fil92" points="25227 16723 25428 16709 25615 16096 25368 16200" mask="url(#ei)"/>
+ <polygon class="fil93" points="25526 15365 25509 14948 25437 14986 25272 15082 25335 15512" mask="url(#ej)"/>
+ <polygon class="fil94" points="25615 16096 25526 15365 25335 15512 25368 16200" mask="url(#ek)"/>
+ <polygon class="fil95" points="26319 14525 26637 14733 26855 14605 26496 14355 26368 14499" mask="url(#el)"/>
+ <polygon class="fil96" points="26855 14605 26637 14733 26592 14994 26698 14957" mask="url(#em)"/>
+ <polygon class="fil93" points="26781 15196 26698 14957 26592 14994" mask="url(#en)"/>
+ <polygon class="fil49" points="25428 16709 25227 16723 25415 17163"/>
+ <polygon class="fil50" points="25428 16709 25415 17163 25491 16825"/>
+ <polygon class="fil51" points="25227 16723 25428 16709 25615 16096 25368 16200"/>
+ <polygon class="fil52" points="25615 16096 25428 16709 25785 16203"/>
+ <polygon class="fil53" points="25785 16203 25428 16709 25491 16825 25805 16280"/>
+ <polygon class="fil54" points="25615 16096 25785 16203 25927 15607 25831 15494"/>
+ <polygon class="fil55" points="25615 16096 25831 15494 25526 15365"/>
+ <polygon class="fil56" points="25615 16096 25526 15365 25335 15512 25368 16200"/>
+ <polygon class="fil53" points="25927 15607 25785 16203 25805 16280"/>
+ <polygon class="fil57" points="25831 15494 25927 15607 26246 14779"/>
+ <polygon class="fil53" points="25831 15494 26246 14779 26079 14650 25968 14708"/>
+ <polygon class="fil58" points="25831 15494 25968 14708 25509 14948 25526 15365"/>
+ <polygon class="fil59" points="25526 15365 25509 14948 25437 14986 25272 15082 25335 15512"/>
+ <polygon class="fil56" points="25335 15512 25272 15082 24950 15269"/>
+ <polygon class="fil60" points="26079 14650 26246 14779 26201 14586"/>
+ <polygon class="fil61" points="26319 14525 26637 14733 26855 14605 26496 14355 26368 14499"/>
+ <polygon class="fil58" points="26496 14355 26855 14605 26636 14196"/>
+ <polygon class="fil62" points="26855 14605 26637 14733 26592 14994 26698 14957"/>
+ <polygon class="fil63" points="26855 14605 26698 14957 26734 14986"/>
+ <polygon class="fil64" points="26781 15196 26698 14957 26592 14994"/>
+ <polygon class="fil64" points="26698 14957 26781 15196 26734 14986"/>
+ <polygon class="fil65" points="22818 15112 23599 14748 23381 14689"/>
+ <polygon class="fil56" points="23599 14748 22818 15112 23579 14996"/>
+ <polygon class="fil66" points="23599 14748 24180 14692 24170 14677 24104 14580 23381 14689"/>
+ <polygon class="fil56" points="24180 14692 23599 14748 24105 15062"/>
+ <polygon class="fil67" points="24105 15062 23599 14748 23579 14996"/>
+ <polygon class="fil49" points="24180 14692 24105 15062 24180 15091 25310 14637"/>
+ <polygon class="fil66" points="24180 14692 25160 13581 24791 13930 24104 14580"/>
+ <polygon class="fil65" points="25160 13581 24180 14692 25372 13627"/>
+ <polygon class="fil68" points="25372 13627 24180 14692 25310 14637"/>
+ <polygon class="fil61" points="25372 13627 25310 14637 25611 14396 26118 13522"/>
+ <polygon class="fil69" points="26118 13522 25611 14396 26088 14015"/>
+ <polygon class="fil49" points="24791 13930 25160 13581 25183 13471 24886 13436 24661 13549"/>
+ <polygon class="fil70" points="24436 13410 24661 13549 24886 13436"/>
+ <polygon class="fil71" points="25411 12390 25183 13471 25160 13581 25372 13627 25524 12457"/>
+ <polygon class="fil56" points="25524 12457 25372 13627 25913 12242"/>
+ <polygon class="fil72" points="25913 12242 25372 13627 26118 13522"/>
+ <polygon class="fil73" points="25913 12242 26118 13522 26283 12255"/>
+ <polygon class="fil63" points="26283 12255 26118 13522 26640 12513"/>
+ <polygon class="fil55" points="26469 13711 26118 13522 26088 14015"/>
+ <polygon class="fil58" points="26118 13522 26469 13711 26613 13596 26640 12513"/>
+ <polygon class="fil52" points="26640 12513 26613 13596 26657 13561 26868 12622"/>
+ <polygon class="fil49" points="25358 11398 25549 10512 25041 10459"/>
+ <polygon class="fil51" points="25549 10512 25358 11398 25833 11126"/>
+ <polygon class="fil74" points="25833 11126 25358 11398 25913 12242"/>
+ <polygon class="fil51" points="25913 12242 25358 11398 25524 12457"/>
+ <polygon class="fil75" points="25524 12457 25358 11398 25411 12390"/>
+ <polygon class="fil76" points="25833 11126 25913 12242 26190 10689"/>
+ <polygon class="fil61" points="26190 10689 25913 12242 26329 10974"/>
+ <polygon class="fil77" points="26190 10689 26329 10974 26574 10729"/>
+ <polygon class="fil63" points="26574 10729 26329 10974 26283 12255"/>
+ <polygon class="fil78" points="26283 12255 26329 10974 25913 12242"/>
+ <polygon class="fil73" points="26574 10729 26283 12255 26640 12513 26585 11023"/>
+ <polygon class="fil79" points="26585 11023 26640 12513 26865 11065"/>
+ <polygon class="fil80" points="26865 11065 26640 12513 26868 12622 27113 11472"/>
+ <polygon class="fil58" points="26865 11065 27113 11472 27841 10737"/>
+ <polygon class="fil81" points="26865 11065 27841 10737 27642 10665"/>
+ <polygon class="fil82" points="27841 10737 27113 11472 27758 10899"/>
+ <polygon class="fil83" points="24436 13410 24661 13549 24886 13436" mask="url(#eo)"/>
+ <polygon class="fil84" points="24791 13930 25160 13581 25183 13471 24886 13436 24661 13549" mask="url(#eq)"/>
+ <polygon class="fil85" points="23599 14748 22818 15112 23579 14996" mask="url(#er)"/>
+ <polygon class="fil5" points="22818 15112 23599 14748 23381 14689" mask="url(#es)"/>
+ <polygon class="fil86" points="24105 15062 23599 14748 23579 14996" mask="url(#et)"/>
+ <polygon class="fil87" points="24180 14692 23599 14748 24105 15062" mask="url(#eu)"/>
+ <polygon class="fil88" points="24180 14692 24105 15062 24180 15091 25310 14637" mask="url(#ev)"/>
+ <polygon class="fil89" points="25335 15512 25272 15082 24950 15269" mask="url(#ew)"/>
+ <polygon class="fil90" points="25428 16709 25227 16723 25415 17163" mask="url(#ex)"/>
+ <polygon class="fil91" points="25428 16709 25415 17163 25491 16825" mask="url(#ey)"/>
+ <polygon class="fil92" points="25227 16723 25428 16709 25615 16096 25368 16200" mask="url(#ez)"/>
+ <polygon class="fil93" points="25526 15365 25509 14948 25437 14986 25272 15082 25335 15512" mask="url(#fb)"/>
+ <polygon class="fil94" points="25615 16096 25526 15365 25335 15512 25368 16200" mask="url(#fc)"/>
+ <polygon class="fil95" points="26319 14525 26637 14733 26855 14605 26496 14355 26368 14499" mask="url(#fd)"/>
+ <polygon class="fil96" points="26855 14605 26637 14733 26592 14994 26698 14957" mask="url(#fe)"/>
+ <polygon class="fil93" points="26781 15196 26698 14957 26592 14994" mask="url(#ff)"/>
+ <polygon class="fil24" points="23273 16685 21723 17150 21665 17367 21689 17279 20519 17586 20529 17673 21734 17373 22020 17399 23709 17140 23249 16902" mask="url(#fg)"/>
+ <polygon class="fil43" points="15624 15779 15539 14625 15310 14876"/>
+ <polygon class="fil41" points="15310 14876 15539 14625 14952 14694"/>
+ <polygon class="fil28" points="14952 14694 15539 14625 15211 14429"/>
+ <polygon class="fil97" points="15310 14876 14952 14694 15301 16096"/>
+ <polygon class="fil98" points="15310 14876 15301 16096 15513 16154"/>
+ <polygon class="fil99" points="15310 14876 15513 16154 15624 15779"/>
+ <polygon class="fil100" points="19953 16535 20312 17873 20429 16806"/>
+ <polygon class="fil35" points="20312 17873 19953 16535 20196 17848"/>
+ <polygon class="fil101" points="20429 16806 20312 17873 20529 17673"/>
+ <polygon class="fil102" points="19953 16535 20429 16806 20323 16264"/>
+ <polygon class="fil43" points="15624 15779 15539 14625 15310 14876"/>
+ <polygon class="fil41" points="15310 14876 15539 14625 14952 14694"/>
+ <polygon class="fil28" points="14952 14694 15539 14625 15211 14429"/>
+ <polygon class="fil97" points="15310 14876 14952 14694 15301 16096"/>
+ <polygon class="fil98" points="15310 14876 15301 16096 15513 16154"/>
+ <polygon class="fil99" points="15310 14876 15513 16154 15624 15779"/>
+ <polygon class="fil100" points="19953 16535 20312 17873 20429 16806"/>
+ <polygon class="fil35" points="20312 17873 19953 16535 20196 17848"/>
+ <polygon class="fil101" points="20429 16806 20312 17873 20529 17673"/>
+ <polygon class="fil102" points="19953 16535 20429 16806 20323 16264"/>
+ <polygon class="fil43" points="15624 15779 15539 14625 15310 14876"/>
+ <polygon class="fil41" points="15310 14876 15539 14625 14952 14694"/>
+ <polygon class="fil28" points="14952 14694 15539 14625 15211 14429"/>
+ <polygon class="fil97" points="15310 14876 14952 14694 15301 16096"/>
+ <polygon class="fil98" points="15310 14876 15301 16096 15513 16154"/>
+ <polygon class="fil99" points="15310 14876 15513 16154 15624 15779"/>
+ <polygon class="fil100" points="19953 16535 20312 17873 20429 16806"/>
+ <polygon class="fil35" points="20312 17873 19953 16535 20196 17848"/>
+ <polygon class="fil101" points="20429 16806 20312 17873 20529 17673"/>
+ <polygon class="fil102" points="19953 16535 20429 16806 20323 16264"/>
+ <polygon class="fil40" points="15260 15931 15092 16002 14872 16240 15191 16301 15513 16154 15301 16096"/>
+ <polygon class="fil40" points="20171 17710 19819 17832 20148 18008 20312 17873 20196 17848"/>
+ <polygon class="fil30" points="17937 11289 18032 12326 18196 12437"/>
+ <polygon class="fil25" points="17937 11289 18196 12437 18243 11167"/>
+ <polygon class="fil28" points="17937 11289 18243 11167 17937 11051"/>
+ <polygon class="fil103" points="18243 11167 18196 12437 18439 12416"/>
+ <polygon class="fil28" points="22937 11850 23001 12014 23339 12003"/>
+ <polygon class="fil36" points="22937 11850 23339 12003 23175 11802"/>
+ <polygon class="fil29" points="22831 13231 23001 12014 22937 11850"/>
+ <path class="fil97" d="m23001 12014l-170 1217s77 185 74 228l96-1445z"/>
+ <polygon class="fil30" points="23001 12014 22905 13459 23112 13469 23339 12003"/>
+ <polygon class="fil104" points="23339 12003 23112 13469 23260 13305"/>
+ <polygon class="fil29" points="23954 15342 23431 15255 23709 17140"/>
+ <polygon class="fil28" points="23431 15255 23954 15342 23859 14985"/>
+ <polygon class="fil97" points="23709 17140 23431 15255 23249 16902"/>
+ <polygon class="fil101" points="23954 15342 23709 17140 23899 16712"/>
+ <polygon class="fil29" points="27186 12829 26731 14358 27488 13057"/>
+ <polygon class="fil35" points="27488 13057 26731 14358 26985 14522"/>
+ <polygon class="fil105" points="27488 13057 26985 14522 27202 14459"/>
+ <polygon class="fil106" points="27488 13057 27202 14459 27684 12728"/>
+ <polygon class="fil28" points="27186 12829 27488 13057 27684 12728"/>
+ <polygon class="fil30" points="17937 11289 18032 12326 18196 12437"/>
+ <polygon class="fil25" points="17937 11289 18196 12437 18243 11167"/>
+ <polygon class="fil28" points="17937 11289 18243 11167 17937 11051"/>
+ <polygon class="fil103" points="18243 11167 18196 12437 18439 12416"/>
+ <polygon class="fil28" points="22937 11850 23001 12014 23339 12003"/>
+ <polygon class="fil36" points="22937 11850 23339 12003 23175 11802"/>
+ <polygon class="fil29" points="22831 13231 23001 12014 22937 11850"/>
+ <path class="fil97" d="m23001 12014l-170 1217s77 185 74 228l96-1445z"/>
+ <polygon class="fil30" points="23001 12014 22905 13459 23112 13469 23339 12003"/>
+ <polygon class="fil104" points="23339 12003 23112 13469 23260 13305"/>
+ <polygon class="fil29" points="23954 15342 23431 15255 23709 17140"/>
+ <polygon class="fil28" points="23431 15255 23954 15342 23859 14985"/>
+ <polygon class="fil97" points="23709 17140 23431 15255 23249 16902"/>
+ <polygon class="fil101" points="23954 15342 23709 17140 23899 16712"/>
+ <polygon class="fil29" points="27186 12829 26731 14358 27488 13057"/>
+ <polygon class="fil35" points="27488 13057 26731 14358 26985 14522"/>
+ <polygon class="fil105" points="27488 13057 26985 14522 27202 14459"/>
+ <polygon class="fil106" points="27488 13057 27202 14459 27684 12728"/>
+ <polygon class="fil28" points="27186 12829 27488 13057 27684 12728"/>
+ <polygon class="fil30" points="17937 11289 18032 12326 18196 12437"/>
+ <polygon class="fil25" points="17937 11289 18196 12437 18243 11167"/>
+ <polygon class="fil28" points="17937 11289 18243 11167 17937 11051"/>
+ <polygon class="fil103" points="18243 11167 18196 12437 18439 12416"/>
+ <polygon class="fil28" points="22937 11850 23001 12014 23339 12003"/>
+ <polygon class="fil36" points="22937 11850 23339 12003 23175 11802"/>
+ <polygon class="fil29" points="22831 13231 23001 12014 22937 11850"/>
+ <path class="fil97" d="m23001 12014l-170 1217s77 185 74 228l96-1445z"/>
+ <polygon class="fil30" points="23001 12014 22905 13459 23112 13469 23339 12003"/>
+ <polygon class="fil104" points="23339 12003 23112 13469 23260 13305"/>
+ <polygon class="fil29" points="23954 15342 23431 15255 23709 17140"/>
+ <polygon class="fil28" points="23431 15255 23954 15342 23859 14985"/>
+ <polygon class="fil97" points="23709 17140 23431 15255 23249 16902"/>
+ <polygon class="fil101" points="23954 15342 23709 17140 23899 16712"/>
+ <polygon class="fil29" points="27186 12829 26731 14358 27488 13057"/>
+ <polygon class="fil35" points="27488 13057 26731 14358 26985 14522"/>
+ <polygon class="fil105" points="27488 13057 26985 14522 27202 14459"/>
+ <polygon class="fil106" points="27488 13057 27202 14459 27684 12728"/>
+ <polygon class="fil28" points="27186 12829 27488 13057 27684 12728"/>
+ <polygon class="fil25" points="20438 16880 23435 15973 23483 15603"/>
+ <polygon class="fil26" points="20438 16880 23483 15603 20419 16758 20429 16806"/>
+ <polygon class="fil27" points="20419 16758 23483 15603 23435 15547 20402 16671"/>
+ <polygon class="fil28" points="21537 16808 20450 16987 20458 17060 21607 16871"/>
+ <polygon class="fil29" points="21607 16871 20458 17060 20486 17300"/>
+ <polygon class="fil30" points="21607 16871 20486 17300 21668 17258"/>
+ <polygon class="fil31" points="21537 16808 21607 16871 22544 16642 22290 16629"/>
+ <polygon class="fil32" points="22544 16642 21607 16871 21668 17258"/>
+ <polygon class="fil33" points="22544 16642 21668 17258 22610 16877"/>
+ <polygon class="fil34" points="22290 16629 22544 16642 23444 16146 23378 16146"/>
+ <polygon class="fil30" points="22544 16642 22610 16877 23444 16146"/>
+ <polygon class="fil35" points="23444 16146 22610 16877 23408 16765"/>
+ <polygon class="fil36" points="23954 15342 25527 14652 25310 14637 23916 15197"/>
+ <polygon class="fil37" points="25527 14652 23954 15342 23933 15858"/>
+ <polygon class="fil29" points="25527 14652 23933 15858 25437 14986"/>
+ <polygon class="fil38" points="25527 14652 25437 14986 26368 14499"/>
+ <polygon class="fil28" points="25527 14652 27278 13234 27178 13144 25310 14637"/>
+ <polygon class="fil39" points="27278 13234 25527 14652 26368 14499"/>
+ <polygon class="fil30" points="27278 13234 26368 14499 27019 13763"/>
+ <polygon class="fil107" points="25041 10459 22859 10029 24394 10969"/>
+ <polygon class="fil108" points="22859 10029 25041 10459 24177 9718"/>
+ <polygon class="fil109" points="22859 10029 24177 9718 24142 8759"/>
+ <polygon class="fil110" points="22859 10029 24142 8759 22925 7979"/>
+ <polygon class="fil111" points="22925 7979 24142 8759 24592 7728 24110 7800"/>
+ <polygon class="fil112" points="24142 8759 24177 9718 25075 9044"/>
+ <polygon class="fil113" points="24142 8759 25075 9044 24592 7728"/>
+ <polygon class="fil114" points="25075 9044 24177 9718 25178 10158"/>
+ <polygon class="fil115" points="25178 10158 24177 9718 25041 10459"/>
+ <polygon class="fil116" points="25178 10158 25041 10459 25549 10512"/>
+ <polygon class="fil117" points="25178 10158 25549 10512 25444 9838"/>
+ <polygon class="fil118" points="25444 9838 25549 10512 26338 10436"/>
+ <polygon class="fil119" points="25178 10158 25444 9838 25075 9044"/>
+ <polygon class="fil120" points="25075 9044 25444 9838 25891 8117"/>
+ <polygon class="fil121" points="25891 8117 25444 9838 27272 9689"/>
+ <polygon class="fil122" points="27272 9689 25444 9838 26338 10436 26962 9937"/>
+ <polygon class="fil123" points="25075 9044 25891 8117 24592 7728"/>
+ <polygon class="fil124" points="24110 7800 24592 7728 24672 6940"/>
+ <polygon class="fil125" points="24672 6940 24592 7728 25578 6808"/>
+ <polygon class="fil126" points="25578 6808 24592 7728 25891 8117"/>
+ <polygon class="fil127" points="25578 6808 25891 8117 27767 6722"/>
+ <polygon class="fil128" points="25578 6808 27767 6722 26960 6087"/>
+ <polygon class="fil129" points="27767 6722 25891 8117 27159 8733"/>
+ <polygon class="fil130" points="27159 8733 25891 8117 27272 9689"/>
+ <polygon class="fil131" points="27767 6722 27159 8733 28111 7595"/>
+ <polygon class="fil132" points="28111 7595 27159 8733 29685 8548 29141 8218 28874 8057"/>
+ <polygon class="fil125" points="28111 7595 29341 7284 27767 6722"/>
+ <polygon class="fil113" points="29341 7284 28111 7595 28874 8057"/>
+ <polygon class="fil133" points="29341 7284 28874 8057 29141 8218"/>
+ <polygon class="fil134" points="28429 9977 27159 8733 27272 9689 27642 10665"/>
+ <polygon class="fil135" points="27159 8733 28429 9977 29685 8548"/>
+ <polygon class="fil119" points="27642 10665 27272 9689 26962 9937"/>
+ <polygon class="fil123" points="28429 9977 27642 10665 28793 11075"/>
+ <polygon class="fil126" points="28429 9977 28793 11075 29976 10340"/>
+ <polygon class="fil125" points="28429 9977 29976 10340 29685 8548"/>
+ <polygon class="fil136" points="25009 11326 25041 10459 24540 10853"/>
+ <polygon class="fil24" points="25041 10459 25009 11326 25358 11398"/>
+ <polygon class="fil137" points="25549 10512 25833 11126 26099 10801 25696 10498"/>
+ <polygon class="fil137" points="25696 10498 26099 10801 26190 10689 26312 10702 26435 10359 26338 10436"/>
+ <polygon class="fil138" points="26435 10359 26312 10702 26574 10729 26577 10800 26973 10645 26650 10187"/>
+ <polygon class="fil139" points="26650 10187 26973 10645 27320 10320 26962 9937"/>
+ <polygon class="fil140" points="26973 10645 26577 10800 26585 11023 26865 11065 26972 11010"/>
+ <polygon class="fil141" points="26973 10645 26972 11010 27397 10402 27320 10320"/>
+ <polygon class="fil142" points="27397 10402 26972 11010 27642 10665"/>
+ <polygon class="fil142" points="27696 10955 27323 11285 27645 11931 27724 11078"/>
+ <polygon class="fil136" points="27696 10955 27724 11078 28335 10912 27841 10737 27758 10899"/>
+ <polygon class="fil139" points="28335 10912 27724 11078 27645 11931"/>
+ <polygon class="fil143" points="28335 10912 27645 11931 28313 11594"/>
+ <polygon class="fil144" points="27645 11931 27323 11285 27113 11472 27086 11601"/>
+ <polygon class="fil136" points="25009 11326 25041 10459 24540 10853"/>
+ <polygon class="fil24" points="25041 10459 25009 11326 25358 11398"/>
+ <polygon class="fil137" points="25549 10512 25833 11126 26099 10801 25696 10498"/>
+ <polygon class="fil137" points="25696 10498 26099 10801 26190 10689 26312 10702 26435 10359 26338 10436"/>
+ <polygon class="fil138" points="26435 10359 26312 10702 26574 10729 26577 10800 26973 10645 26650 10187"/>
+ <polygon class="fil139" points="26650 10187 26973 10645 27320 10320 26962 9937"/>
+ <polygon class="fil140" points="26973 10645 26577 10800 26585 11023 26865 11065 26972 11010"/>
+ <polygon class="fil141" points="26973 10645 26972 11010 27397 10402 27320 10320"/>
+ <polygon class="fil142" points="27397 10402 26972 11010 27642 10665"/>
+ <polygon class="fil142" points="27696 10955 27323 11285 27645 11931 27724 11078"/>
+ <polygon class="fil136" points="27696 10955 27724 11078 28335 10912 27841 10737 27758 10899"/>
+ <polygon class="fil139" points="28335 10912 27724 11078 27645 11931"/>
+ <polygon class="fil143" points="28335 10912 27645 11931 28313 11594"/>
+ <polygon class="fil144" points="27645 11931 27323 11285 27113 11472 27086 11601"/>
+ <polygon class="fil136" points="25009 11326 25041 10459 24540 10853"/>
+ <polygon class="fil24" points="25041 10459 25009 11326 25358 11398"/>
+ <polygon class="fil137" points="25549 10512 25833 11126 26099 10801 25696 10498"/>
+ <polygon class="fil137" points="25696 10498 26099 10801 26190 10689 26312 10702 26435 10359 26338 10436"/>
+ <polygon class="fil138" points="26435 10359 26312 10702 26574 10729 26577 10800 26973 10645 26650 10187"/>
+ <polygon class="fil139" points="26650 10187 26973 10645 27320 10320 26962 9937"/>
+ <polygon class="fil140" points="26973 10645 26577 10800 26585 11023 26865 11065 26972 11010"/>
+ <polygon class="fil141" points="26973 10645 26972 11010 27397 10402 27320 10320"/>
+ <polygon class="fil142" points="27397 10402 26972 11010 27642 10665"/>
+ <polygon class="fil142" points="27696 10955 27323 11285 27645 11931 27724 11078"/>
+ <polygon class="fil136" points="27696 10955 27724 11078 28335 10912 27841 10737 27758 10899"/>
+ <polygon class="fil139" points="28335 10912 27724 11078 27645 11931"/>
+ <polygon class="fil143" points="28335 10912 27645 11931 28313 11594"/>
+ <polygon class="fil144" points="27645 11931 27323 11285 27113 11472 27086 11601"/>
+ <polygon class="fil40" points="17596 13250 17915 13218 17634 13339 17596 13250 17500 13193 16972 13083 16450 13155 16302 13175 16071 13431 16144 13797 16855 13978 17742 13590"/>
+ <polygon class="fil107" points="25041 10459 22859 10029 24394 10969"/>
+ <polygon class="fil108" points="22859 10029 25041 10459 24177 9718"/>
+ <polygon class="fil109" points="22859 10029 24177 9718 24142 8759"/>
+ <polygon class="fil110" points="22859 10029 24142 8759 22925 7979"/>
+ <polygon class="fil111" points="22925 7979 24142 8759 24592 7728 24110 7800"/>
+ <polygon class="fil112" points="24142 8759 24177 9718 25075 9044"/>
+ <polygon class="fil113" points="24142 8759 25075 9044 24592 7728"/>
+ <polygon class="fil114" points="25075 9044 24177 9718 25178 10158"/>
+ <polygon class="fil115" points="25178 10158 24177 9718 25041 10459"/>
+ <polygon class="fil116" points="25178 10158 25041 10459 25549 10512"/>
+ <polygon class="fil117" points="25178 10158 25549 10512 25444 9838"/>
+ <polygon class="fil118" points="25444 9838 25549 10512 26338 10436"/>
+ <polygon class="fil119" points="25178 10158 25444 9838 25075 9044"/>
+ <polygon class="fil120" points="25075 9044 25444 9838 25891 8117"/>
+ <polygon class="fil121" points="25891 8117 25444 9838 27272 9689"/>
+ <polygon class="fil122" points="27272 9689 25444 9838 26338 10436 26962 9937"/>
+ <polygon class="fil123" points="25075 9044 25891 8117 24592 7728"/>
+ <polygon class="fil124" points="24110 7800 24592 7728 24672 6940"/>
+ <polygon class="fil125" points="24672 6940 24592 7728 25578 6808"/>
+ <polygon class="fil126" points="25578 6808 24592 7728 25891 8117"/>
+ <polygon class="fil127" points="25578 6808 25891 8117 27767 6722"/>
+ <polygon class="fil128" points="25578 6808 27767 6722 26960 6087"/>
+ <polygon class="fil129" points="27767 6722 25891 8117 27159 8733"/>
+ <polygon class="fil130" points="27159 8733 25891 8117 27272 9689"/>
+ <polygon class="fil131" points="27767 6722 27159 8733 28111 7595"/>
+ <polygon class="fil132" points="28111 7595 27159 8733 29685 8548 29141 8218 28874 8057"/>
+ <polygon class="fil125" points="28111 7595 29341 7284 27767 6722"/>
+ <polygon class="fil113" points="29341 7284 28111 7595 28874 8057"/>
+ <polygon class="fil133" points="29341 7284 28874 8057 29141 8218"/>
+ <polygon class="fil134" points="28429 9977 27159 8733 27272 9689 27642 10665"/>
+ <polygon class="fil135" points="27159 8733 28429 9977 29685 8548"/>
+ <polygon class="fil119" points="27642 10665 27272 9689 26962 9937"/>
+ <polygon class="fil123" points="28429 9977 27642 10665 28793 11075"/>
+ <polygon class="fil126" points="28429 9977 28793 11075 29976 10340"/>
+ <polygon class="fil125" points="28429 9977 29976 10340 29685 8548"/>
+ <polygon class="fil107" points="25041 10459 22859 10029 24394 10969"/>
+ <polygon class="fil108" points="22859 10029 25041 10459 24177 9718"/>
+ <polygon class="fil109" points="22859 10029 24177 9718 24142 8759"/>
+ <polygon class="fil110" points="22859 10029 24142 8759 22925 7979"/>
+ <polygon class="fil111" points="22925 7979 24142 8759 24592 7728 24110 7800"/>
+ <polygon class="fil112" points="24142 8759 24177 9718 25075 9044"/>
+ <polygon class="fil113" points="24142 8759 25075 9044 24592 7728"/>
+ <polygon class="fil114" points="25075 9044 24177 9718 25178 10158"/>
+ <polygon class="fil115" points="25178 10158 24177 9718 25041 10459"/>
+ <polygon class="fil116" points="25178 10158 25041 10459 25549 10512"/>
+ <polygon class="fil117" points="25178 10158 25549 10512 25444 9838"/>
+ <polygon class="fil118" points="25444 9838 25549 10512 26338 10436"/>
+ <polygon class="fil119" points="25178 10158 25444 9838 25075 9044"/>
+ <polygon class="fil120" points="25075 9044 25444 9838 25891 8117"/>
+ <polygon class="fil121" points="25891 8117 25444 9838 27272 9689"/>
+ <polygon class="fil122" points="27272 9689 25444 9838 26338 10436 26962 9937"/>
+ <polygon class="fil123" points="25075 9044 25891 8117 24592 7728"/>
+ <polygon class="fil124" points="24110 7800 24592 7728 24672 6940"/>
+ <polygon class="fil125" points="24672 6940 24592 7728 25578 6808"/>
+ <polygon class="fil126" points="25578 6808 24592 7728 25891 8117"/>
+ <polygon class="fil127" points="25578 6808 25891 8117 27767 6722"/>
+ <polygon class="fil128" points="25578 6808 27767 6722 26960 6087"/>
+ <polygon class="fil129" points="27767 6722 25891 8117 27159 8733"/>
+ <polygon class="fil130" points="27159 8733 25891 8117 27272 9689"/>
+ <polygon class="fil131" points="27767 6722 27159 8733 28111 7595"/>
+ <polygon class="fil132" points="28111 7595 27159 8733 29685 8548 29141 8218 28874 8057"/>
+ <polygon class="fil125" points="28111 7595 29341 7284 27767 6722"/>
+ <polygon class="fil113" points="29341 7284 28111 7595 28874 8057"/>
+ <polygon class="fil133" points="29341 7284 28874 8057 29141 8218"/>
+ <polygon class="fil134" points="28429 9977 27159 8733 27272 9689 27642 10665"/>
+ <polygon class="fil135" points="27159 8733 28429 9977 29685 8548"/>
+ <polygon class="fil119" points="27642 10665 27272 9689 26962 9937"/>
+ <polygon class="fil123" points="28429 9977 27642 10665 28793 11075"/>
+ <polygon class="fil126" points="28429 9977 28793 11075 29976 10340"/>
+ <polygon class="fil125" points="28429 9977 29976 10340 29685 8548"/>
+ <polygon class="fil40" points="18586 15065 18042 15234 17975 15409 17537 15419 17505 15617 17869 15684 17857 15715 18264 16144 18979 16138 19571 15736 19604 15240"/>
+ <polygon class="fil145" points="17760 14710 18263 14735 17580 14482"/>
+ <path class="fil146" d="m17580 14482l683 253 42-836-150 120-237 191-338 272zm652-157l-271-66 170-158 90-83 11 307z"/>
+ <polygon class="fil147" points="17921 14152 17995 14100 17925 14068"/>
+ <polygon class="fil1" points="17925 14068 17995 14100 17921 14152 17918 14210 18155 14019 17927 14018"/>
+ <polygon class="fil148" points="18028 14197 18037 14199 18143 14211 18131 14101"/>
+ <polygon class="fil1" points="18131 14101 18143 14211 18037 14199 18028 14197 17961 14259 18232 14325 18221 14018"/>
+ <polygon class="fil149" points="18305 13899 18263 14735 18261 14787 18393 14469 18314 13721"/>
+ <polygon class="fil150" points="18314 13721 18393 14469 19424 13657"/>
+ <polygon class="fil151" points="18393 14469 18261 14787 18488 14981 18993 15413"/>
+ <polygon class="fil152" points="18488 14981 18261 14787 18505 15444"/>
+ <polygon class="fil150" points="18393 14469 18993 15413 19634 15010"/>
+ <polygon class="fil151" points="19634 15010 18993 15413 19274 15362 19555 15312"/>
+ <polygon class="fil153" points="19555 15312 19274 15362 19422 15646"/>
+ <polygon class="fil150" points="19634 15010 19555 15312 19708 15090 19913 14792 20271 14273"/>
+ <polygon class="fil154" points="19708 15090 19774 15295 19913 14792"/>
+ <polygon class="fil155" points="19634 15010 20271 14273 19424 13657"/>
+ <polygon class="fil156" points="19634 15010 19424 13657 18393 14469"/>
+ <polygon class="fil157" points="18314 13721 19424 13657 19475 13461"/>
+ <polygon class="fil158" points="19475 13461 19424 13657 20271 14273"/>
+ <polygon class="fil145" points="17760 14710 18263 14735 17580 14482"/>
+ <path class="fil146" d="m17580 14482l683 253 42-836-150 120-237 191-338 272zm652-157l-271-66 170-158 90-83 11 307z"/>
+ <polygon class="fil147" points="17921 14152 17995 14100 17925 14068"/>
+ <polygon class="fil1" points="17925 14068 17995 14100 17921 14152 17918 14210 18155 14019 17927 14018"/>
+ <polygon class="fil148" points="18028 14197 18037 14199 18143 14211 18131 14101"/>
+ <polygon class="fil1" points="18131 14101 18143 14211 18037 14199 18028 14197 17961 14259 18232 14325 18221 14018"/>
+ <polygon class="fil149" points="18305 13899 18263 14735 18261 14787 18393 14469 18314 13721"/>
+ <polygon class="fil150" points="18314 13721 18393 14469 19424 13657"/>
+ <polygon class="fil151" points="18393 14469 18261 14787 18488 14981 18993 15413"/>
+ <polygon class="fil152" points="18488 14981 18261 14787 18505 15444"/>
+ <polygon class="fil150" points="18393 14469 18993 15413 19634 15010"/>
+ <polygon class="fil151" points="19634 15010 18993 15413 19274 15362 19555 15312"/>
+ <polygon class="fil153" points="19555 15312 19274 15362 19422 15646"/>
+ <polygon class="fil150" points="19634 15010 19555 15312 19708 15090 19913 14792 20271 14273"/>
+ <polygon class="fil154" points="19708 15090 19774 15295 19913 14792"/>
+ <polygon class="fil155" points="19634 15010 20271 14273 19424 13657"/>
+ <polygon class="fil156" points="19634 15010 19424 13657 18393 14469"/>
+ <polygon class="fil157" points="18314 13721 19424 13657 19475 13461"/>
+ <polygon class="fil158" points="19475 13461 19424 13657 20271 14273"/>
+ <polygon class="fil145" points="17760 14710 18263 14735 17580 14482"/>
+ <path class="fil146" d="m17580 14482l683 253 42-836-150 120-237 191-338 272zm652-157l-271-66 170-158 90-83 11 307z"/>
+ <polygon class="fil147" points="17921 14152 17995 14100 17925 14068"/>
+ <polygon class="fil1" points="17925 14068 17995 14100 17921 14152 17918 14210 18155 14019 17927 14018"/>
+ <polygon class="fil148" points="18028 14197 18037 14199 18143 14211 18131 14101"/>
+ <polygon class="fil1" points="18131 14101 18143 14211 18037 14199 18028 14197 17961 14259 18232 14325 18221 14018"/>
+ <polygon class="fil149" points="18305 13899 18263 14735 18261 14787 18393 14469 18314 13721"/>
+ <polygon class="fil150" points="18314 13721 18393 14469 19424 13657"/>
+ <polygon class="fil151" points="18393 14469 18261 14787 18488 14981 18993 15413"/>
+ <polygon class="fil152" points="18488 14981 18261 14787 18505 15444"/>
+ <polygon class="fil150" points="18393 14469 18993 15413 19634 15010"/>
+ <polygon class="fil151" points="19634 15010 18993 15413 19274 15362 19555 15312"/>
+ <polygon class="fil153" points="19555 15312 19274 15362 19422 15646"/>
+ <polygon class="fil150" points="19634 15010 19555 15312 19708 15090 19913 14792 20271 14273"/>
+ <polygon class="fil154" points="19708 15090 19774 15295 19913 14792"/>
+ <polygon class="fil155" points="19634 15010 20271 14273 19424 13657"/>
+ <polygon class="fil156" points="19634 15010 19424 13657 18393 14469"/>
+ <polygon class="fil157" points="18314 13721 19424 13657 19475 13461"/>
+ <polygon class="fil158" points="19475 13461 19424 13657 20271 14273"/>
+ <polygon class="fil1" points="16014 12689 16090 12588 15967 12576 15969 12689"/>
+ <polygon class="fil147" points="16014 12689 15969 12689 15969 12749"/>
+ <polygon class="fil147" points="16064 12736 16046 12813 16119 12781"/>
+ <polygon class="fil1" points="16064 12736 16119 12781 16219 12736 16089 12625"/>
+ <path class="fil146" d="m16046 12813l18-77 25-111 130 111-100 45-73 32zm-291 223l122 107 460-215-169-444-78 104-76 101-45 60-214 287z"/>
+ <polygon class="fil145" points="16337 12928 15877 13143 16363 12997"/>
+ <polygon class="fil150" points="16168 12484 16337 12928 16363 12997 16392 13073 16514 12452 16089 12277"/>
+ <polygon class="fil159" points="16514 12452 16392 13073 16426 13078 16667 13108 17289 13185"/>
+ <polygon class="fil160" points="16667 13108 16426 13078 16550 13476"/>
+ <polygon class="fil161" points="17289 13185 17495 13502 17501 13097"/>
+ <polygon class="fil158" points="17750 12993 17915 13218 17916 12924"/>
+ <polygon class="fil150" points="17750 12993 17916 12924 17964 12904 17502 11985 17289 13185 17501 13097"/>
+ <polygon class="fil158" points="17502 11985 17964 12904 17645 11815"/>
+ <polygon class="fil156" points="17289 13185 17502 11985 16514 12452"/>
+ <polygon class="fil150" points="16514 12452 17502 11985 16695 11714"/>
+ <polygon class="fil157" points="16695 11714 17502 11985 17645 11815"/>
+ <polygon class="fil149" points="16514 12452 16695 11714 16089 12277"/>
+ <polygon class="fil160" points="12975 17985 12024 17645 12738 18729 12897 18598 12829 18610 12688 18152"/>
+ <polygon class="fil156" points="12024 17645 12975 17985 13011 17963 12888 17450 12623 17517 12639 17438"/>
+ <polygon class="fil150" points="12024 17645 12639 17438 12717 17032 12513 16789"/>
+ <polygon class="fil162" points="12024 17645 12513 16789 12284 16542"/>
+ <polygon class="fil158" points="12513 16789 13094 16727 13132 16624 12284 16542"/>
+ <polygon class="fil150" points="13094 16727 12513 16789 12717 17032 12742 16904 12921 17349 13399 17301 13241 16862 13047 16855"/>
+ <polygon class="fil152" points="13094 16727 13047 16855 13241 16862 13294 16864 13287 16744 13283 16661 13263 16273 13132 16624"/>
+ <polygon class="fil163" points="12921 17349 12742 16904 12717 17032 12639 17438 12623 17517 12888 17450 12954 17433"/>
+ <polygon class="fil164" points="13399 17301 12921 17349 12954 17433 12888 17450 13011 17963 13363 17758"/>
+ <polygon class="fil150" points="13399 17301 13363 17758 13429 17720 13772 17861 13830 17748 13796 17706 13842 17690 13845 17663"/>
+ <polygon class="fil155" points="13399 17301 13845 17663 13894 17247 13840 17283 13801 17093 13849 17083 13287 16744 13294 16864 13241 16862"/>
+ <polygon class="fil158" points="13287 16744 13849 17083 13620 16763 13283 16661"/>
+ <polygon class="fil160" points="13849 17083 13801 17093 13840 17283 13894 17247 13913 17234 14268 16996"/>
+ <polygon class="fil158" points="13894 17247 13845 17663 13842 17690 14053 17616 13913 17234"/>
+ <polygon class="fil163" points="14053 17616 13842 17690 13796 17706 13830 17748 13933 17878 14035 17790 14361 17508"/>
+ <polygon class="fil155" points="13933 17878 13830 17748 13772 17861 13879 17905 13556 18269 13907 18394 14035 17790"/>
+ <polygon class="fil156" points="13907 18394 13556 18269 13458 18379 13482 18487 13379 18470 13341 18513 12897 18598 12738 18729"/>
+ <path class="fil165" d="m12829 18610l618-458-18-432-66 38-352 205-36 22-287 167 141 458zm142-269l-137-233 181-3 114-2-70 106-88 132z"/>
+ <polygon class="fil1" points="12971 18341 13059 18209 13015 18105 12834 18108"/>
+ <polygon class="fil147" points="13015 18105 13059 18209 13129 18103"/>
+ <polygon class="fil166" points="13447 18152 12829 18610 12897 18598 13341 18513 13379 18470 13191 18438 13363 18320 13434 18271 13450 18345 13458 18379 13556 18269 13879 17905"/>
+ <polygon class="fil1" points="13363 18320 13191 18438 13379 18470 13482 18487 13458 18379 13450 18345"/>
+ <polygon class="fil147" points="13363 18320 13450 18345 13434 18271"/>
+ <polygon class="fil146" points="13447 18152 13879 17905 13772 17861 13429 17720"/>
+ <polygon class="fil160" points="12975 17985 12024 17645 12738 18729 12897 18598 12829 18610 12688 18152"/>
+ <polygon class="fil156" points="12024 17645 12975 17985 13011 17963 12888 17450 12623 17517 12639 17438"/>
+ <polygon class="fil150" points="12024 17645 12639 17438 12717 17032 12513 16789"/>
+ <polygon class="fil162" points="12024 17645 12513 16789 12284 16542"/>
+ <polygon class="fil158" points="12513 16789 13094 16727 13132 16624 12284 16542"/>
+ <polygon class="fil150" points="13094 16727 12513 16789 12717 17032 12742 16904 12921 17349 13399 17301 13241 16862 13047 16855"/>
+ <polygon class="fil152" points="13094 16727 13047 16855 13241 16862 13294 16864 13287 16744 13283 16661 13263 16273 13132 16624"/>
+ <polygon class="fil163" points="12921 17349 12742 16904 12717 17032 12639 17438 12623 17517 12888 17450 12954 17433"/>
+ <polygon class="fil164" points="13399 17301 12921 17349 12954 17433 12888 17450 13011 17963 13363 17758"/>
+ <polygon class="fil150" points="13399 17301 13363 17758 13429 17720 13772 17861 13830 17748 13796 17706 13842 17690 13845 17663"/>
+ <polygon class="fil155" points="13399 17301 13845 17663 13894 17247 13840 17283 13801 17093 13849 17083 13287 16744 13294 16864 13241 16862"/>
+ <polygon class="fil158" points="13287 16744 13849 17083 13620 16763 13283 16661"/>
+ <polygon class="fil160" points="13849 17083 13801 17093 13840 17283 13894 17247 13913 17234 14268 16996"/>
+ <polygon class="fil158" points="13894 17247 13845 17663 13842 17690 14053 17616 13913 17234"/>
+ <polygon class="fil163" points="14053 17616 13842 17690 13796 17706 13830 17748 13933 17878 14035 17790 14361 17508"/>
+ <polygon class="fil155" points="13933 17878 13830 17748 13772 17861 13879 17905 13556 18269 13907 18394 14035 17790"/>
+ <polygon class="fil156" points="13907 18394 13556 18269 13458 18379 13482 18487 13379 18470 13341 18513 12897 18598 12738 18729"/>
+ <path class="fil165" d="m12829 18610l618-458-18-432-66 38-352 205-36 22-287 167 141 458zm142-269l-137-233 181-3 114-2-70 106-88 132z"/>
+ <polygon class="fil1" points="12971 18341 13059 18209 13015 18105 12834 18108"/>
+ <polygon class="fil147" points="13015 18105 13059 18209 13129 18103"/>
+ <polygon class="fil166" points="13447 18152 12829 18610 12897 18598 13341 18513 13379 18470 13191 18438 13363 18320 13434 18271 13450 18345 13458 18379 13556 18269 13879 17905"/>
+ <polygon class="fil1" points="13363 18320 13191 18438 13379 18470 13482 18487 13458 18379 13450 18345"/>
+ <polygon class="fil147" points="13363 18320 13450 18345 13434 18271"/>
+ <polygon class="fil146" points="13447 18152 13879 17905 13772 17861 13429 17720"/>
+ <polygon class="fil160" points="12975 17985 12024 17645 12738 18729 12897 18598 12829 18610 12688 18152"/>
+ <polygon class="fil156" points="12024 17645 12975 17985 13011 17963 12888 17450 12623 17517 12639 17438"/>
+ <polygon class="fil150" points="12024 17645 12639 17438 12717 17032 12513 16789"/>
+ <polygon class="fil162" points="12024 17645 12513 16789 12284 16542"/>
+ <polygon class="fil158" points="12513 16789 13094 16727 13132 16624 12284 16542"/>
+ <polygon class="fil150" points="13094 16727 12513 16789 12717 17032 12742 16904 12921 17349 13399 17301 13241 16862 13047 16855"/>
+ <polygon class="fil152" points="13094 16727 13047 16855 13241 16862 13294 16864 13287 16744 13283 16661 13263 16273 13132 16624"/>
+ <polygon class="fil163" points="12921 17349 12742 16904 12717 17032 12639 17438 12623 17517 12888 17450 12954 17433"/>
+ <polygon class="fil164" points="13399 17301 12921 17349 12954 17433 12888 17450 13011 17963 13363 17758"/>
+ <polygon class="fil150" points="13399 17301 13363 17758 13429 17720 13772 17861 13830 17748 13796 17706 13842 17690 13845 17663"/>
+ <polygon class="fil155" points="13399 17301 13845 17663 13894 17247 13840 17283 13801 17093 13849 17083 13287 16744 13294 16864 13241 16862"/>
+ <polygon class="fil158" points="13287 16744 13849 17083 13620 16763 13283 16661"/>
+ <polygon class="fil160" points="13849 17083 13801 17093 13840 17283 13894 17247 13913 17234 14268 16996"/>
+ <polygon class="fil158" points="13894 17247 13845 17663 13842 17690 14053 17616 13913 17234"/>
+ <polygon class="fil163" points="14053 17616 13842 17690 13796 17706 13830 17748 13933 17878 14035 17790 14361 17508"/>
+ <polygon class="fil155" points="13933 17878 13830 17748 13772 17861 13879 17905 13556 18269 13907 18394 14035 17790"/>
+ <polygon class="fil156" points="13907 18394 13556 18269 13458 18379 13482 18487 13379 18470 13341 18513 12897 18598 12738 18729"/>
+ <path class="fil165" d="m12829 18610l618-458-18-432-66 38-352 205-36 22-287 167 141 458zm142-269l-137-233 181-3 114-2-70 106-88 132z"/>
+ <polygon class="fil1" points="12971 18341 13059 18209 13015 18105 12834 18108"/>
+ <polygon class="fil147" points="13015 18105 13059 18209 13129 18103"/>
+ <polygon class="fil166" points="13447 18152 12829 18610 12897 18598 13341 18513 13379 18470 13191 18438 13363 18320 13434 18271 13450 18345 13458 18379 13556 18269 13879 17905"/>
+ <polygon class="fil1" points="13363 18320 13191 18438 13379 18470 13482 18487 13458 18379 13450 18345"/>
+ <polygon class="fil147" points="13363 18320 13450 18345 13434 18271"/>
+ <polygon class="fil146" points="13447 18152 13879 17905 13772 17861 13429 17720"/>
+</svg>
