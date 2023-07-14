@@ -11,7 +11,7 @@
 |---|---|
 |<img src="https://github.com/2-say/KUT_TermProject_Diary/assets/91319157/4af7654e-21c8-414a-9d0b-67cfb1229193">|<img src="https://github.com/2-say/KUT_TermProject_Diary/assets/91319157/a499d308-48af-4630-95ad-456d85c70c92">|
 
-|Calender page |WTQ Test|
+|Calender page |Achievements page|
 |---|---|
 <img src="https://github.com/2-say/KUT_TermProject_Diary/assets/91319157/eaaf4f50-aa6d-4a19-8b8b-5e840078d017">|<img src="https://github.com/2-say/KUT_TermProject_Diary/assets/91319157/1be66c00-fef8-4d29-afa6-227d25d13741">|
 
