@@ -328,7 +328,7 @@ else $userpoint = "";
 						else
 							$page = 1;
 
-						$con = mysqli_connect("127.0.0.1", "root", "9eexju!@12","WEBDEV1");
+						$con = mysqli_connect("127.0.0.1", "root", "","WEBDEV1");
 						$sql = "select * from board where id = '$userid' order by num desc";
 						$result = mysqli_query($con, $sql);
 						$total_record = mysqli_num_rows($result); // 전체 글 수
